@@ -1,0 +1,14 @@
+{
+  "buildId": "f1e48629-4738-4f7f-880f-b05cb84938e0",
+  "platform": "ios",
+  "profile": "production",
+  "appVersion": "0.1.0",
+  "buildNumber": "20",
+  "runtimeVersion": "0.13.0",
+  "commit": "88ae6ca3d4b554a7de756bec5a42e2ab88552fa2",
+  "completedAt": "2026-09-25T13:43:47.151Z",
+  "mirroredAt": "2026-09-25T17:44:57.133Z",
+  "url": "https://github.com/zenvertising/emonument-builds/releases/download/production-ios-f1e48629-4738-4f7f-880f-b05cb84938e0/emonument-production-20.ipa",
+  "manifestUrl": "https://zenvertising.github.io/emonument-builds/manifests/production/f1e48629-4738-4f7f-880f-b05cb84938e0.plist",
+  "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fzenvertising.github.io%2Femonument-builds%2Fmanifests%2Fproduction%2Ff1e48629-4738-4f7f-880f-b05cb84938e0.plist"
+}

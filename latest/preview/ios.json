@@ -1,0 +1,14 @@
+{
+  "buildId": "be8a4106-f2a9-4b37-b6bd-762c1d8766f8",
+  "platform": "ios",
+  "profile": "preview",
+  "appVersion": "0.1.0",
+  "buildNumber": "20",
+  "runtimeVersion": "0.13.0",
+  "commit": "01f9db54670cedc971968fab97b5bfbc4765a989",
+  "completedAt": "2026-09-25T13:51:22.284Z",
+  "mirroredAt": "2026-09-25T17:44:49.752Z",
+  "url": "https://github.com/zenvertising/emonument-builds/releases/download/preview-ios-be8a4106-f2a9-4b37-b6bd-762c1d8766f8/emonument-preview-20.ipa",
+  "manifestUrl": "https://zenvertising.github.io/emonument-builds/manifests/preview/be8a4106-f2a9-4b37-b6bd-762c1d8766f8.plist",
+  "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fzenvertising.github.io%2Femonument-builds%2Fmanifests%2Fpreview%2Fbe8a4106-f2a9-4b37-b6bd-762c1d8766f8.plist"
+}

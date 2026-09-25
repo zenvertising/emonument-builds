@@ -1,0 +1,14 @@
+{
+  "buildId": "2fceb76a-88bc-476c-9427-c4b46359d930",
+  "platform": "android",
+  "profile": "production",
+  "appVersion": "0.1.0",
+  "buildNumber": "13",
+  "runtimeVersion": "0.13.0",
+  "commit": "7f55cbecbeefbcaba9b74edcc51166f6239c2ea1",
+  "completedAt": "2026-09-23T08:24:20.837Z",
+  "mirroredAt": "2026-09-25T17:45:12.331Z",
+  "url": "https://github.com/zenvertising/emonument-builds/releases/download/production-android-2fceb76a-88bc-476c-9427-c4b46359d930/emonument-production-13.apk",
+  "manifestUrl": null,
+  "installUrl": "https://github.com/zenvertising/emonument-builds/releases/download/production-android-2fceb76a-88bc-476c-9427-c4b46359d930/emonument-production-13.apk"
+}
