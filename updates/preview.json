@@ -1,0 +1,868 @@
+{
+  "channel": "preview",
+  "updates": [
+    {
+      "groupId": "fe1f0f57-3cb7-49a7-bc91-cbe5ed7db8d6",
+      "createdAt": "2026-09-23T11:53:39.217Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form-fields): collapse duplicate picklist options by value [REQ-026 / REQ-010] (#253)",
+      "commit": "cdc291cd6ed6326b204dbb5a9e5886a2e6772d6f",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a0ce1d-4291-734a-b89e-6abf9f4409b9",
+        "android": "01a0ce1d-4291-7c10-a39e-ee4d5ea7b09a"
+      }
+    },
+    {
+      "groupId": "05f812ae-1efd-4544-941e-fc57cb68f8a1",
+      "createdAt": "2026-09-23T10:29:56.198Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form-fields): keep optional single-item subsections flattened (#252)",
+      "commit": "27c84469b8de4971e98b34e796d6597b1c509ceb",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a0cdd0-9d66-7a82-9930-9fd4611cea83",
+        "android": "01a0cdd0-9d66-72ac-b60e-a4a2a620267d"
+      }
+    },
+    {
+      "groupId": "d81c0cd2-f953-49d6-8a20-86e805e74671",
+      "createdAt": "2026-09-21T09:39:53.164Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sections): send a section with empty required fields (bypass_completion) (#250)",
+      "commit": "938d2675f9eb523e50e70cd36a98bca88668e6d9",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a0c356-12cc-7972-9674-597047ef53c4",
+        "android": "01a0c356-12cc-75cb-9d50-57d64aa64356"
+      }
+    },
+    {
+      "groupId": "8a2988a4-162f-49f4-b1d1-6120b1714ef7",
+      "createdAt": "2026-09-09T07:20:43.920Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "refactor(v2): rename \"ansamblu\" → \"grup\" in tablet UI copy (#245)",
+      "commit": "3e318cc0095d055290dced6606b0dbd1e343455a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a0850a-5c90-775e-8a50-d3fdc2beec55",
+        "android": "01a0850a-5c90-711a-a1cd-42b9c0543255"
+      }
+    },
+    {
+      "groupId": "b5f0b74b-875f-4925-bf67-32b69d3b997c",
+      "createdAt": "2026-09-04T18:32:21.907Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(gis): copy-geometry count fan-out and stale assignment rows (#240)",
+      "commit": "655a0154432bb8f8fa7508429e426a8b5d6e514b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a06db1-7693-7698-a7de-9ba6d2f0e3e8",
+        "android": "01a06db1-7693-718a-9578-a36c3904ccd5"
+      }
+    },
+    {
+      "groupId": "07b1da2b-211a-4118-aebf-d4350c797c29",
+      "createdAt": "2026-09-01T09:11:01.259Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(gis): capture actions move to the tool rail; peek returns to one row (#235)",
+      "commit": "1bb28493744c55c0bcfd86f552e9dcd9b3203094",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a05c3c-758b-7dd4-97cf-2fefb01cb8d7",
+        "android": "01a05c3c-758b-7ba1-8afc-0044813edda9"
+      }
+    },
+    {
+      "groupId": "3866bf86-7333-4670-bb15-309d889ee419",
+      "createdAt": "2026-08-27T18:27:47.566Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(gis): accept all five BE coordinate sources (#232)",
+      "commit": "3e7a1522a3ec839a328cf765605962fad8956429",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a0447a-66ee-7eae-962b-158dc398f622",
+        "android": "01a0447a-66ee-7cfd-b16a-0e4990444c95"
+      }
+    },
+    {
+      "groupId": "93e0e472-224c-4153-a872-5ab6545bdbed",
+      "createdAt": "2026-08-26T08:41:03.600Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(gis): long layer labels no longer push the switch off-screen (#231)",
+      "commit": "854164c2f264157f378aeb22c8da627539290c55",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a03d3a-df70-71c4-b998-5cd17e56f1a9",
+        "android": "01a03d3a-df70-751c-ab2d-ac842fc4fd7f"
+      }
+    },
+    {
+      "groupId": "844b4add-6042-4397-8635-7fe9bd866cdc",
+      "createdAt": "2026-07-02T06:42:35.225Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sections): consume the resolved editability verdict in validation + completion (#212)",
+      "commit": "b5ad153173fc07192411c2246adcaee09c02d625",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f2190-a459-7faa-95eb-79232aac49b4",
+        "android": "019f2190-a459-7d6e-bb57-7874afa64510"
+      }
+    },
+    {
+      "groupId": "881562c5-8dd4-4210-8f9e-f659bd9275f2",
+      "createdAt": "2026-07-01T11:45:10.691Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "refactor(auth): trim login error-masking comments to one-liners",
+      "commit": "b82b898248582a38632da506f99d970f3f66717a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f1d7f-5023-7939-ab8f-a2c9e2a5bddb",
+        "android": "019f1d7f-5023-7be4-b5c0-4a994c7ba034"
+      }
+    },
+    {
+      "groupId": "52d6c934-3163-43c9-9e39-228611f329a3",
+      "createdAt": "2026-06-30T22:26:36.949Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "chore(sections): rename validate button \"Validează\" → \"Confirmă\" (#210)",
+      "commit": "c22827033ffdca85af42516d88a47aa022e804d8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f1aa4-3515-7670-b4fd-429913039289",
+        "android": "019f1aa4-3515-711f-bf7e-50dda2b8b419"
+      }
+    },
+    {
+      "groupId": "d2b8d5ed-ee80-4856-bf89-13503e30b79f",
+      "createdAt": "2026-06-30T21:12:49.642Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(splash): single white splash for both platforms and color schemes (#209)",
+      "commit": "5389a107b6d070ca11573f436c50510a3063d416",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f1a60-a6ea-7478-9d61-28d3d11c0b16",
+        "android": "019f1a60-a6ea-7926-9441-5323bbcd72c1"
+      }
+    },
+    {
+      "groupId": "c9a68b31-faeb-4195-b61e-b78ae9cf4d2b",
+      "createdAt": "2026-06-30T11:14:20.793Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): guard columnWrapperStyle for single-column gallery grid (#206)",
+      "commit": "28ce078e60b51c1d872746bb029dd413ef44e89e",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f183c-b9f9-7860-b1fc-493c749e1225",
+        "android": "019f183c-b9f9-71c2-9728-682733ed5d8e"
+      }
+    },
+    {
+      "groupId": "7aff1940-3532-4b52-a384-87bb0ec10085",
+      "createdAt": "2026-06-30T11:04:38.653Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): guard columnWrapperStyle for single-column gallery grid (#206)",
+      "commit": "28ce078e60b51c1d872746bb029dd413ef44e89e",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f1833-d7fd-7f4d-8379-f259c30cdc62",
+        "android": "019f1833-d7fd-74f9-9a7a-1950b2c37395"
+      }
+    },
+    {
+      "groupId": "659b9288-544a-44cb-bf1b-a7191e007619",
+      "createdAt": "2026-06-30T10:37:07.646Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): guard columnWrapperStyle for single-column gallery grid",
+      "commit": "12fb76be7ac5a80db8e04db28aed8ba4e6d38881",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f181a-a6be-7266-bdfc-b632ce5797a0",
+        "android": "019f181a-a6be-787b-8aee-00c8e05bb994"
+      }
+    },
+    {
+      "groupId": "a0dc6a78-093a-4dbc-8b1c-d319c612767d",
+      "createdAt": "2026-06-30T08:29:38.425Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "chore(photos): durable gallery crash-trail recorder + Sentry build/device context",
+      "commit": "55a5e3fe30a6caa0b314da6b3c0f49b43b45f6e9",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f17a5-eef9-7a79-9573-2e2b96d47e9a",
+        "android": "019f17a5-eef9-7212-99fc-6d21f81b157d"
+      }
+    },
+    {
+      "groupId": "14e57ef8-f502-42ce-a58c-781c16cc9615",
+      "createdAt": "2026-06-26T10:24:45.675Z",
+      "runtimeVersion": "0.12.0",
+      "subject": "feat: move Validează from TopBar into the progress strip",
+      "commit": "c6eb4d40238311151c903cf56934e00c278b24c0",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019f0375-e46b-764e-b5dc-1e134741f589",
+        "android": "019f0375-e46b-7529-8926-fdca67a660f7"
+      }
+    },
+    {
+      "groupId": "8f2723d2-cb7a-45e8-92d4-1a9134be9dca",
+      "createdAt": "2026-06-20T14:13:02.704Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(dev): SheetDebugAction crashed every production OTA at startup (#193)",
+      "commit": "9aa133514f162a5d59da75b86f884834b1926252",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee560-bc70-73c2-b299-ef4a7700f6eb",
+        "android": "019ee560-bc70-795a-b443-5b6a6850e0fd"
+      }
+    },
+    {
+      "groupId": "172b8dc9-4d69-4cdf-a98b-2748d0e5607c",
+      "createdAt": "2026-06-20T14:11:03.653Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "chore(config): fail eas update/build when a dev-only apiBaseUrl would ship (#192)",
+      "commit": "9aa133514f162a5d59da75b86f884834b1926252",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee55e-eb65-7f2e-9bf9-a09478c6ce22",
+        "android": "019ee55e-eb65-72f0-844d-e32b67bc86fb"
+      }
+    },
+    {
+      "groupId": "e8850839-b5b0-4977-a10c-1db8b1299c10",
+      "createdAt": "2026-06-20T13:10:05.136Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "chore(config): fail eas update/build when a dev-only apiBaseUrl would ship (#192)",
+      "commit": "033d4e1a2164a4e0e30aaddd77182339a00cc4c8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee527-1850-7bb0-8ae2-55be76e61401",
+        "android": "019ee527-1850-709f-be1e-49f6faa08c89"
+      }
+    },
+    {
+      "groupId": "0d0f65c7-98a1-4076-bdc4-b8f79d4955e5",
+      "createdAt": "2026-06-20T12:38:10.571Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "Republish \"feat(section-form): prefill Identificare territorial mirrors on-device (BUG-003) (#159)",
+      "commit": "4d31723568dc5fa908ef7170cd16d26ae22d89aa",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee509-e18b-706f-a4f2-b5889877cfc0",
+        "android": "019ee509-e18b-7987-8d9b-286b29d02445"
+      }
+    },
+    {
+      "groupId": "04529813-27be-4f61-8d53-3e09dd8b816f",
+      "createdAt": "2026-06-20T11:50:40.428Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "feat(notifications): dismiss a revoked sheet's notifications (#191)",
+      "commit": "c9cd1c5ccaff0833bd0f6b8446a4c2ad7afd78a3",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee4de-642c-7da2-b549-30bea990096e",
+        "android": "019ee4de-642c-783b-85db-7d730586e0b9"
+      }
+    },
+    {
+      "groupId": "c70b5e0e-bd5e-4641-b031-1af0d2aa3bb9",
+      "createdAt": "2026-06-20T11:48:30.811Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "feat(notifications): dismiss a revoked sheet's notifications (#191)",
+      "commit": "c9cd1c5ccaff0833bd0f6b8446a4c2ad7afd78a3",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee4dc-69db-7a4d-87a2-88b7d57d78f4",
+        "android": "019ee4dc-69db-79d2-a642-293a3e23d418"
+      }
+    },
+    {
+      "groupId": "91351c77-a2c6-4c3b-bfe3-24700c3bd3cd",
+      "createdAt": "2026-06-20T10:32:01.192Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "feat(notifications): dismiss a revoked sheet's notifications (#191)",
+      "commit": "c9cd1c5ccaff0833bd0f6b8446a4c2ad7afd78a3",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee496-61a8-79ad-907c-5a14ee19bddb",
+        "android": "019ee496-61a8-7aae-a715-7d4eb2cbd5ca"
+      }
+    },
+    {
+      "groupId": "2e12045d-9bfd-452f-8f14-5bf96694e11e",
+      "createdAt": "2026-06-20T07:57:52.287Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(sheets): clear stale soft-revoke when /assignments re-confirms a sheet",
+      "commit": "f1de779398966bafa4cf69c25176de5c1cf1d5c8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee409-411f-766a-b538-e54906162f7a",
+        "android": "019ee409-411f-7096-9141-513d2c56bc38"
+      }
+    },
+    {
+      "groupId": "fe469fed-b523-407c-b414-cd9366f7b7a1",
+      "createdAt": "2026-06-19T18:23:15.189Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(sync): exclude revoked/inaccessible sheets from sync totals + drains (#188)",
+      "commit": "aab152c2a6c0e9fca8e03082c105dc8182da945d",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ee11f-72f5-796e-833c-8a4fd7bc6083",
+        "android": "019ee11f-72f5-7b45-b71a-1c09b55bcabd"
+      }
+    },
+    {
+      "groupId": "ffe124bc-4491-4a59-a821-0e7055d97288",
+      "createdAt": "2026-06-18T21:06:42.527Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(dashboard): center empty states vertically on Dashboard + Fișe screens (#184)",
+      "commit": "0e3cb28815235a706f58a91e6cc44bb2ec72b1cc",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019edc8e-bcdf-7d24-8e7e-5911330a4f25",
+        "android": "019edc8e-bcdf-728c-8216-d5d74476ec63"
+      }
+    },
+    {
+      "groupId": "0039ef7c-52e7-47e2-9617-c26ad46acb84",
+      "createdAt": "2026-06-18T10:16:25.717Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(sheets): clear stale soft-revoke when /assignments re-confirms a sheet",
+      "commit": "ee2f3b60ed6cac64f8c9cf67f15ad372269109a7",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eda3b-6375-7c5c-8342-b0603d56baeb",
+        "android": "019eda3b-6375-7a88-9c84-100acff4dfd1"
+      }
+    },
+    {
+      "groupId": "049fa1eb-7082-41bf-9066-ef31b9dc1843",
+      "createdAt": "2026-06-17T21:09:46.924Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "refactor(form-fields): shared DisabledSelectTrigger for Picklist/Lookup (#171)",
+      "commit": "34c4e928bf328f270b16258658566fda43c10e43",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ed76b-312c-725d-8f26-ba842a6f5979",
+        "android": "019ed76b-312c-762d-9cad-e5611513b402"
+      }
+    },
+    {
+      "groupId": "348d165b-2720-4c3e-bc03-2bc9def49759",
+      "createdAt": "2026-06-17T12:59:44.329Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(design-system): align Sheet content to the screen margin (24→16) (#168)",
+      "commit": "d79f312107988e6662dbb9e057ce70e32a41c481",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ed5aa-8b49-7738-a7e0-c817ca49fcbe",
+        "android": "019ed5aa-8b49-7227-ae25-e9faf6552564"
+      }
+    },
+    {
+      "groupId": "214596fb-e9a7-4ed2-9d92-d00888597dfc",
+      "createdAt": "2026-06-16T18:21:27.638Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(db): wipe sheet_coordinates on user switch (#161)",
+      "commit": "c5ed7a365e228c780d044c5e0d515f01f9d47ef8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ed1aa-bad6-7928-9dcc-58cec8de1514",
+        "android": "019ed1aa-bad6-71a1-acfa-de7d96260384"
+      }
+    },
+    {
+      "groupId": "a6bfae8b-73d6-439a-9400-86a92d4f364d",
+      "createdAt": "2026-06-16T12:47:21.077Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "feat(section-form): prefill Identificare territorial mirrors on-device (BUG-003) (#159)",
+      "commit": "4d31723568dc5fa908ef7170cd16d26ae22d89aa",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ed078-d7f5-75a0-97db-3bb3854e30d5",
+        "android": "019ed078-d7f5-7646-abe8-4acfa0acc814"
+      }
+    },
+    {
+      "groupId": "b1b6266e-a43f-4480-8a7f-2c35db371fe8",
+      "createdAt": "2026-06-15T22:16:32.757Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "feat(photos): consume content-provenance contract (#156)",
+      "commit": "3dc20ae70f90878142cb5be9ab1381baf247720a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ecd5b-98f5-764f-ae85-8822537e3156",
+        "android": "019ecd5b-98f5-7803-a5ce-915f1cee6caa"
+      }
+    },
+    {
+      "groupId": "5557f93a-9a53-41b2-804e-cffd685e9617",
+      "createdAt": "2026-06-15T21:59:30.574Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "feat(coords): consume content-provenance contract; close GIS-BUG-003 (#155)",
+      "commit": "1af361bcb6a220fc3f6d7927123dc6a10c761356",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ecd4c-000e-7705-9702-acf06c2d4e7a",
+        "android": "019ecd4c-000e-7842-80b2-052f8ed89246"
+      }
+    },
+    {
+      "groupId": "1538ee19-ba95-443f-8600-40a708812207",
+      "createdAt": "2026-06-15T12:01:14.302Z",
+      "runtimeVersion": "0.10.0",
+      "subject": "fix(photos): replace FlatList with map inside Sheet ScrollView (#150)",
+      "commit": "f127cc25fbbc4d469ce4150c53e97e1fe1404e6f",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ecb28-443e-7877-8648-fb938c010578",
+        "android": "019ecb28-443e-7449-86de-dbba5940f7a7"
+      }
+    },
+    {
+      "groupId": "3fead71d-8f26-412e-9898-b9d5d40b891e",
+      "createdAt": "2026-06-14T13:44:40.776Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "feat(auth): lock out deactivated operators on app re-open (BUG_SI_001 / AUTH-MOB-005) (#146)",
+      "commit": "200cc604607b324909a7714a059db3c2a95910b4",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ec660-9c48-761f-a9b8-3294a866fedc",
+        "android": "019ec660-9c48-7764-b8f6-5b1a45d78050"
+      }
+    },
+    {
+      "groupId": "52893820-1633-410e-9457-13dabf01f39c",
+      "createdAt": "2026-06-14T09:54:01.412Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "gate repeater add/clone/delete on provenance (provenance slice 4) (#145)",
+      "commit": "69e84afd537578a4bc7cd521f8db2b2088f279d6",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ec58d-7044-7737-9af0-ed2f84e41b2c",
+        "android": "019ec58d-7044-7e30-ae7d-0570467b2db8"
+      }
+    },
+    {
+      "groupId": "27587a7e-f842-4b4e-80bf-1c47e3c8a358",
+      "createdAt": "2026-06-12T09:19:20.202Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "chore(schema): remove dead is_in_sheet field (BE dropped it) (#133)",
+      "commit": "69846c635aec3a9a73a651dec421e494e4280e9f",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ebb20-f68a-7fc4-83ba-34c156c8072c",
+        "android": "019ebb20-f68a-7bc6-b904-66296d291d10"
+      }
+    },
+    {
+      "groupId": "0de127ca-d2d6-4eb3-bb39-c31fc014ffce",
+      "createdAt": "2026-06-12T07:15:49.282Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "feat(map): GIS Slice 3 snap Phase 2 — wire vertex/edge snap into draw + drag (#140)",
+      "commit": "5f2c11553b58ec7a96c5039bc8c498d9f453ca31",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ebaaf-e1a2-76e9-8723-1477e9a12cf3",
+        "android": "019ebaaf-e1a2-7acd-a7b4-311c1c696c76"
+      }
+    },
+    {
+      "groupId": "2686b1dd-d97c-450f-81a3-83e38830c138",
+      "createdAt": "2026-06-11T11:53:07.485Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(sync): resume photo uploads on cellular reconnect (SYNC-MOB-007) (#132)",
+      "commit": "4f8e4cc0e375680dc5b39cfdb4223c0146986638",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb687-669d-7eeb-8bd1-eccf5d98d5a5",
+        "android": "019eb687-669d-703f-badb-d9925bb2abff"
+      }
+    },
+    {
+      "groupId": "40718011-89a5-4e4d-a39d-d63cddb9ef77",
+      "createdAt": "2026-06-11T08:28:41.782Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(gis): surface locked GIS coordinate sync (GIS-BUG-002) (#131)",
+      "commit": "42566ca7175f8871a0de15ded74b0e8400e613c6",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb5cc-3db6-74e2-aee5-a4d8d6dcb22e",
+        "android": "019eb5cc-3db6-786d-b37a-dd65754aa51c"
+      }
+    },
+    {
+      "groupId": "009b73eb-3321-43f4-a36d-11dbd2e338a6",
+      "createdAt": "2026-06-10T21:57:57.933Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(form): count, gate, and surface empty required repeaters - BUG_IID_004; BUG_006/007 (#130)",
+      "commit": "8f0532b872a3ddd92edd56df6c3894f2cb47f0f8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb38a-ca2d-7c67-803a-f63ddbf54dca",
+        "android": "019eb38a-ca2d-7783-b504-4e4160b317e7"
+      }
+    },
+    {
+      "groupId": "b8a243d9-e8b8-4774-9b0a-0676e54a69a1",
+      "createdAt": "2026-06-10T15:50:06.857Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(bootstrap): 45s timeout + offline-first login on refresh failure (#127)",
+      "commit": "20f3f87a6aad04527cec9ae8fbb7fdf1e1fd785a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb23a-0309-7def-b3ef-d85e9a0f3a62",
+        "android": "019eb23a-0309-7100-97c6-35dc9c738751"
+      }
+    },
+    {
+      "groupId": "9a2af93d-2174-4f75-ae3a-3a3a2b1f690c",
+      "createdAt": "2026-06-10T13:50:59.384Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(sync): gate connectivity on isConnected, not isInternetReachable (#126)",
+      "commit": "b6895b9055912991d72afbcaaa520ce71cfe6b80",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb1cc-f338-7ba8-829a-ad71bfd804c4",
+        "android": "019eb1cc-f338-7ab2-bf07-781b8af3c192"
+      }
+    },
+    {
+      "groupId": "0fd70533-a26d-4321-9131-1ccadcce3228",
+      "createdAt": "2026-06-10T13:10:04.270Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(sync): gate connectivity on isConnected, not isInternetReachable (#126)",
+      "commit": "b6895b9055912991d72afbcaaa520ce71cfe6b80",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb1a7-7cee-779b-9b46-4f984e69ac1f",
+        "android": "019eb1a7-7cee-76ff-a966-fcff599752e7"
+      }
+    },
+    {
+      "groupId": "abbb03d3-ecf8-4344-9234-c83a3b749d20",
+      "createdAt": "2026-06-10T10:05:10.877Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(map): compact ModePill + toolbar below wide tier, attribution bottom-right (#124)",
+      "commit": "202e91da56f42185ee8bdf91575a00189e71c646",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eb0fe-375d-7778-9eaf-99a97ace2dd6",
+        "android": "019eb0fe-375d-784e-9ef7-b5f475a82e4c"
+      }
+    },
+    {
+      "groupId": "22650323-4631-4cc0-bdba-258b5686d568",
+      "createdAt": "2026-06-09T20:58:18.833Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "feat: pending-upload photo indicator on sheets list (SYNC-MOB-008) (#121)",
+      "commit": "269d66dd2d914ded40b752f843262f6f87c5bbe4",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eae2d-d151-7b6e-90ea-b5983d9fd757",
+        "android": "019eae2d-d151-72cd-9fb2-3eeef1b22201"
+      }
+    },
+    {
+      "groupId": "cd1261d2-0ab0-4ea5-8a1c-d30c2fa82994",
+      "createdAt": "2026-06-09T15:41:25.947Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(copy): align FinalizeModal Romanian copy with tester feedback (#120)",
+      "commit": "a7cdd1671704c35d5156880a08ea1ebfbf83f4f5",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ead0b-b43b-7c25-aa6e-9b2e239f52f8",
+        "android": "019ead0b-b43b-7c21-8191-7be72056a770"
+      }
+    },
+    {
+      "groupId": "a16d7a7e-e6b8-44ec-bbfa-79ca350b707b",
+      "createdAt": "2026-06-09T14:04:57.539Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(bootstrap): soft-revoke stale sheets after server unassignment (#118)",
+      "commit": "57458e4c08c5094ea69b140bbfa65fbfb8f20c2e",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019eacb3-6143-78ec-a784-919fc87f693b",
+        "android": "019eacb3-6143-72c5-9ac3-b58ef362df5d"
+      }
+    },
+    {
+      "groupId": "ba34ef7d-4c46-466b-915c-681454f089fe",
+      "createdAt": "2026-06-08T21:56:44.087Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(form): show per-field validation errors + scroll to first invalid field (#115)",
+      "commit": "a15bf54b11cb174d1f80331955976e46ac2c2752",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ea93c-f1b7-7fa4-a782-5b57e7df7d7d",
+        "android": "019ea93c-f1b7-77c8-a375-1ad767c4513a"
+      }
+    },
+    {
+      "groupId": "d91348cb-913e-4acc-aba7-25fd29bea672",
+      "createdAt": "2026-06-08T19:20:42.536Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(map): add onMidVertexPress handler for ghost mid-vertices in MapCanvas (#113)",
+      "commit": "df44020c7022f67982ccc590876a46f281025ac6",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ea8ae-1928-73ac-a30e-c5a51d3bdf8b",
+        "android": "019ea8ae-1928-7d68-b5d6-c327abbf7aa3"
+      }
+    },
+    {
+      "groupId": "fed66dc0-622d-4b70-a207-743a82061031",
+      "createdAt": "2026-06-08T12:21:23.150Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(photos): tolerate null captured_at from admin-attached server photos (#110)",
+      "commit": "15bc7a3195677f2344d7fd07927e33fbd76c3356",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ea72e-324e-7115-8f14-29ac59366bc5",
+        "android": "019ea72e-324e-7c41-8377-0a543d5e7247"
+      }
+    },
+    {
+      "groupId": "db2fe70c-ac59-4a66-a003-fbdd6721a9e3",
+      "createdAt": "2026-06-08T08:52:19.986Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(bootstrap): keep cached UI when offline cold-launch bootstrap fails",
+      "commit": "90203986a91b888aed2f6f8e631cc29e8fdc139c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ea66e-cd92-7b64-b403-4498ef8eb8e1",
+        "android": "019ea66e-cd92-7e26-a2aa-8b27c0910177"
+      }
+    },
+    {
+      "groupId": "6075e9a4-9659-4b9a-8cfd-131b9714841b",
+      "createdAt": "2026-06-08T08:48:54.201Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "chore(eas): make EAS env vars the single source of truth (#109)",
+      "commit": "2f531f78e9f0dab5f3f2d24be4033b939eaab2e2",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019ea66b-a9b9-7047-9dd9-467c18e94d2c",
+        "android": "019ea66b-a9b9-7f53-b878-c2782b5d8372"
+      }
+    },
+    {
+      "groupId": "93d3b753-42f3-4e3c-ba2a-ac97aa76be23",
+      "createdAt": "2026-06-06T17:19:23.440Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "chore(eas): make EAS env vars the single source of truth (#109)",
+      "commit": "2f531f78e9f0dab5f3f2d24be4033b939eaab2e2",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e9df2-4f30-7f7b-a995-a1aa59640483",
+        "android": "019e9df2-4f30-71a5-9b93-58eb02317dc4"
+      }
+    },
+    {
+      "groupId": "d240c000-0779-4e06-9d21-83d5ee6e7284",
+      "createdAt": "2026-06-06T15:38:03.182Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "fix(config): app.config.ts throws on missing env instead of falling back",
+      "commit": "e0e2d180772ea9105f5830f9dcfaa40f82fb3c89",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e9d95-882e-76b3-a379-81478ff9a244",
+        "android": "019e9d95-882e-7de9-be36-8dbcb06e2a2e"
+      }
+    },
+    {
+      "groupId": "52302f44-dbc0-4c8f-9ad7-a00726ddea29",
+      "createdAt": "2026-06-06T15:11:37.978Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "rollback: OTA had wrong apiBaseUrl (.local placeholder)",
+      "commit": null,
+      "isRollBackToEmbedded": true,
+      "updateIds": {
+        "ios": "019e9d7d-57fa-7ce0-aa20-49d0b19c3961",
+        "android": "019e9d7d-57fa-795b-afdc-cc7f6a0d9093"
+      }
+    },
+    {
+      "groupId": "2adeca83-0ca5-4f03-bd6f-55062491631d",
+      "createdAt": "2026-06-06T12:58:04.515Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "login build version. Numeric year",
+      "commit": "242530a78deade74deaf229fd05774a29d5749f1",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e9d03-1163-776a-902e-5136a5453d7e",
+        "android": "019e9d03-1163-70db-ae0d-569d2e0eeec5"
+      }
+    },
+    {
+      "groupId": "934a9862-5b90-4577-bee8-08c68f502ff7",
+      "createdAt": "2026-06-05T17:23:19.119Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Filters. Date Year input. GIS parity. Easter egg",
+      "commit": "6b51292e427439e3941875987a057de5793a488e",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e98cf-8bcf-7cb5-8adb-0e68ae445d6f",
+        "android": "019e98cf-8bcf-7894-b393-af01fb5d4975"
+      }
+    },
+    {
+      "groupId": "f21edffb-d15e-4ee7-8182-81e8275a9eb4",
+      "createdAt": "2026-06-04T16:30:26.834Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Server-attached photos in gallery (view-only); offline photo-metadata edits retry on reconnect; correct Fotografii + Date GIS counts on sheet detail; Settings shows the running OTA id + date (#95–#98)",
+      "commit": "c2587d9d36ed806d014c882899596bf1ccf6199a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e9378-c812-7206-97cd-5550d67c67b6",
+        "android": "019e9378-c812-7c0d-9781-3fe7942d02ea"
+      }
+    },
+    {
+      "groupId": "3b484a72-2805-4d5c-b978-c63985fd6ed2",
+      "createdAt": "2026-06-03T19:37:00.766Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Testing OTA updates",
+      "commit": "1b7fe29a1b99a4afb81b4e912568254ab26c132d",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e8efd-3a5e-7d6e-bae2-993fc97fee04"
+      }
+    },
+    {
+      "groupId": "b86dac3b-5f24-45ac-ae6b-6997ea59d45c",
+      "createdAt": "2026-06-02T20:49:09.820Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "New map features",
+      "commit": "ed3dd0bd563d9d34ad1d3c74e7d34015dafd57c8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e8a18-ecbc-75e3-ab52-386e2f5e3e66"
+      }
+    },
+    {
+      "groupId": "d275b230-9451-4412-8de5-7e976259b2ae",
+      "createdAt": "2026-06-01T15:07:24.382Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Responsive fixes",
+      "commit": "ddfd508dcb8ad74d72b54262db7fc122e210fbcd",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "android": "019e83b9-ad5e-7ac1-a574-9fa361fd48e8"
+      }
+    },
+    {
+      "groupId": "a7e55ce7-a8e1-42a2-a87d-23178494c8e7",
+      "createdAt": "2026-06-01T09:38:31.239Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Responsive fixes",
+      "commit": "ddfd508dcb8ad74d72b54262db7fc122e210fbcd",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e828c-92c7-7752-93b8-f2db812ed649"
+      }
+    },
+    {
+      "groupId": "37f1a988-2ddf-41a4-b7ff-900c5736a9b4",
+      "createdAt": "2026-05-30T17:00:58.360Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Responsive reflow",
+      "commit": "69c2e2843f7876663279e0c7a0d9a4f9306227df",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e79d4-ee78-732c-8d08-cd796cef2aaf"
+      }
+    },
+    {
+      "groupId": "8346e53d-05d8-434e-804b-8c538319bb37",
+      "createdAt": "2026-05-28T20:44:14.950Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Sync feature",
+      "commit": "bcdf3f88f84ee10fb9d99f8c8b7a17ea4beb46fb",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "android": "019e7054-a0e6-72f7-a5f9-3e0d4de48705"
+      }
+    },
+    {
+      "groupId": "bc60fa1a-669a-4fc8-8c76-f8059272d803",
+      "createdAt": "2026-05-28T19:33:04.605Z",
+      "runtimeVersion": "0.9.0",
+      "subject": "Sync feature",
+      "commit": "bcdf3f88f84ee10fb9d99f8c8b7a17ea4beb46fb",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e7013-77dd-77b4-90b8-53222bf2720b"
+      }
+    },
+    {
+      "groupId": "633e4405-6797-4bf6-ad50-32b8c2e30d16",
+      "createdAt": "2026-05-27T16:42:59.421Z",
+      "runtimeVersion": "0.8.0",
+      "subject": "Field navigator panel",
+      "commit": "1ba2be39b946277e613ee41b1812955b3683571a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e6a51-63dd-7a42-8760-73ea41da788b"
+      }
+    },
+    {
+      "groupId": "fa09848c-afd8-451f-8c8b-be8483d297ea",
+      "createdAt": "2026-05-27T14:55:54.707Z",
+      "runtimeVersion": "0.8.0",
+      "subject": "UUID at login",
+      "commit": "e113b78917e55852fd998fd96eb7eb970c5b96b9",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e69ef-5b53-7e56-844a-86b47f40bbb6"
+      }
+    },
+    {
+      "groupId": "d265eaa4-8054-4570-b713-0a9f5e89d108",
+      "createdAt": "2026-05-26T22:18:48.898Z",
+      "runtimeVersion": "0.8.0",
+      "subject": "settings: manual OTA update check",
+      "commit": "777f9103652c651c0ad5ef0357546eb74051ff45",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e665e-7cc2-714e-8e40-ce35dbe5c8ce"
+      }
+    },
+    {
+      "groupId": "2fe05e55-33f9-432a-8867-28280e4a2280",
+      "createdAt": "2026-05-26T22:12:10.403Z",
+      "runtimeVersion": "0.8.0",
+      "subject": "manual update check in Settings",
+      "commit": "777f9103652c651c0ad5ef0357546eb74051ff45",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e6658-6823-71c7-b69a-8fdc7dc1c507"
+      }
+    },
+    {
+      "groupId": "fb700810-09cc-431d-910e-04aa429d5ea2",
+      "createdAt": "2026-05-26T21:54:17.402Z",
+      "runtimeVersion": "0.8.0",
+      "subject": "fix API URL",
+      "commit": "56b88be341cbced32a30625c55a59b66ff2e708b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e6648-08ba-7444-884f-048e0d0e7e68"
+      }
+    },
+    {
+      "groupId": "e7c3bc61-3398-449c-ab84-a3f0c2c8a6f4",
+      "createdAt": "2026-05-26T21:49:24.565Z",
+      "runtimeVersion": "0.8.0",
+      "subject": "what changed",
+      "commit": "56b88be341cbced32a30625c55a59b66ff2e708b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "019e6643-90d5-7fb4-814c-e8aa118bb3b0"
+      }
+    }
+  ]
+}

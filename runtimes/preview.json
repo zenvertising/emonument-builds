@@ -1,0 +1,91 @@
+{
+  "channel": "preview",
+  "runtimes": [
+    {
+      "runtimeVersion": "0.13.0",
+      "firstBuildAt": "2026-06-29T13:47:35.063Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-06-29T13:47:35.063Z",
+          "latestBuildAt": "2026-09-25T13:51:22.284Z"
+        },
+        "android": {
+          "firstBuildAt": "2026-06-29T14:10:25.504Z",
+          "latestBuildAt": "2026-09-23T09:32:45.246Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.12.0",
+      "firstBuildAt": "2026-06-25T15:49:43.027Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-06-25T15:49:43.027Z",
+          "latestBuildAt": "2026-06-25T15:49:43.027Z"
+        },
+        "android": {
+          "firstBuildAt": "2026-06-25T16:57:38.045Z",
+          "latestBuildAt": "2026-06-25T16:57:38.045Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.10.0",
+      "firstBuildAt": "2026-06-15T06:54:33.977Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-06-15T06:54:33.977Z",
+          "latestBuildAt": "2026-06-15T08:19:41.725Z"
+        },
+        "android": {
+          "firstBuildAt": "2026-06-15T07:03:41.465Z",
+          "latestBuildAt": "2026-06-15T08:30:23.709Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.9.0",
+      "firstBuildAt": "2026-05-28T19:18:04.334Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-05-28T19:18:04.334Z",
+          "latestBuildAt": "2026-06-08T09:30:14.329Z"
+        },
+        "android": {
+          "firstBuildAt": "2026-05-28T20:04:44.867Z",
+          "latestBuildAt": "2026-06-08T09:35:56.178Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.8.0",
+      "firstBuildAt": "2026-05-26T19:39:42.615Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-05-26T19:39:42.615Z",
+          "latestBuildAt": "2026-05-27T14:02:13.931Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.5.0",
+      "firstBuildAt": "2026-05-19T13:23:47.073Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-05-19T13:23:47.073Z",
+          "latestBuildAt": "2026-05-19T13:23:47.073Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.1.0",
+      "firstBuildAt": "2026-05-12T08:22:19.012Z",
+      "platforms": {
+        "android": {
+          "firstBuildAt": "2026-05-12T08:22:19.012Z",
+          "latestBuildAt": "2026-05-12T08:22:19.012Z"
+        }
+      }
+    }
+  ]
+}

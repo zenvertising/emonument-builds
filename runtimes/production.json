@@ -1,0 +1,29 @@
+{
+  "channel": "production",
+  "runtimes": [
+    {
+      "runtimeVersion": "0.13.0",
+      "firstBuildAt": "2026-07-09T13:06:30.118Z",
+      "platforms": {
+        "ios": {
+          "firstBuildAt": "2026-07-09T13:06:30.118Z",
+          "latestBuildAt": "2026-09-25T13:43:47.151Z"
+        },
+        "android": {
+          "firstBuildAt": "2026-07-13T15:42:21.596Z",
+          "latestBuildAt": "2026-09-23T08:24:20.837Z"
+        }
+      }
+    },
+    {
+      "runtimeVersion": "0.9.0",
+      "firstBuildAt": "2026-06-03T22:09:47.231Z",
+      "platforms": {
+        "android": {
+          "firstBuildAt": "2026-06-03T22:09:47.231Z",
+          "latestBuildAt": "2026-06-03T22:09:47.231Z"
+        }
+      }
+    }
+  ]
+}
