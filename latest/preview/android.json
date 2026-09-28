@@ -1,14 +1,14 @@
 {
-  "buildId": "29e7a4ef-c23f-4881-8ef6-7aef6e35fb29",
+  "buildId": "158567f2-2c8a-4b3a-a3a7-999b7e5ba23e",
   "platform": "android",
   "profile": "preview",
   "appVersion": "0.1.0",
-  "buildNumber": "13",
+  "buildNumber": "14",
   "runtimeVersion": "0.13.0",
-  "commit": "938d2675f9eb523e50e70cd36a98bca88668e6d9",
-  "completedAt": "2026-09-23T09:32:45.246Z",
-  "mirroredAt": "2026-09-25T17:45:03.232Z",
-  "url": "https://github.com/zenvertising/emonument-builds/releases/download/preview-android-29e7a4ef-c23f-4881-8ef6-7aef6e35fb29/emonument-preview-13.apk",
+  "commit": "e9e453115b97df291cb7e4259574db5972677490",
+  "completedAt": "2026-09-28T19:53:43.378Z",
+  "mirroredAt": "2026-09-28T19:54:47.878Z",
+  "url": "https://github.com/zenvertising/emonument-builds/releases/download/preview-android-158567f2-2c8a-4b3a-a3a7-999b7e5ba23e/heritas-preview-14.apk",
   "manifestUrl": null,
-  "installUrl": "https://github.com/zenvertising/emonument-builds/releases/download/preview-android-29e7a4ef-c23f-4881-8ef6-7aef6e35fb29/emonument-preview-13.apk"
+  "installUrl": "https://github.com/zenvertising/emonument-builds/releases/download/preview-android-158567f2-2c8a-4b3a-a3a7-999b7e5ba23e/heritas-preview-14.apk"
 }
