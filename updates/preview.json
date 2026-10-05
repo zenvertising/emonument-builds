@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "a006644b-9c07-42c3-b0e7-f050731931d0",
+      "createdAt": "2026-10-05T15:36:42.858Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(ci): publish OTAs from CI, with a one-button production promotion (#268)",
+      "commit": "c4785395d4bb28b3f34d98e8c25d337c273d278a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a10cb5-ca6a-7ccc-a723-db41a4fda961",
+        "android": "01a10cb5-ca6a-71b5-8b2b-a780ede669fa"
+      }
+    },
+    {
       "groupId": "fe1f0f57-3cb7-49a7-bc91-cbe5ed7db8d6",
       "createdAt": "2026-09-23T11:53:39.217Z",
       "runtimeVersion": "0.13.0",
