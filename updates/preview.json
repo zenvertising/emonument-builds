@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d9d7df04-9d80-4900-a77e-7a59bd014bb7",
+      "createdAt": "2026-10-12T19:16:27.406Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): push edits made after a failed section transition (#269)",
+      "commit": "9d327251ddfc70b571587a1b05ac545812343307",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1318b-7c8e-7845-8060-b338a1733883",
+        "android": "01a1318b-7c8e-7289-931b-5863382a4dcf"
+      }
+    },
+    {
       "groupId": "a006644b-9c07-42c3-b0e7-f050731931d0",
       "createdAt": "2026-10-05T15:36:42.858Z",
       "runtimeVersion": "0.13.0",
