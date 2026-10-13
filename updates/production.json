@@ -2,6 +2,19 @@
   "channel": "production",
   "updates": [
     {
+      "groupId": "a057e0b3-d92f-43d2-bf42-5cacc98713ff",
+      "createdAt": "2026-10-13T10:12:14.102Z",
+      "runtimeVersion": "0.13.0",
+      "tag": "v2.0.2",
+      "subject": "Merge pull request #270 from zenvertising/develop",
+      "commit": "908adf5c4dbfdf0a7a8f7c4171f5fbb86d39bd78",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a134bf-9896-7ef8-a5e7-a42a4986329c",
+        "android": "01a134bf-9896-70ba-b85e-fe11bc5e0b01"
+      }
+    },
+    {
       "groupId": "ccdd1925-9fe2-4a62-8d21-144060f962d2",
       "createdAt": "2026-10-12T19:38:23.539Z",
       "runtimeVersion": "0.13.0",
