@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "58b8065f-46ba-425c-bcfb-504b14dcca81",
+      "createdAt": "2026-10-13T09:40:14.616Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): push values typed in child sections when the parent is confirmed",
+      "commit": "23d4dedfb2fda4964e5a5667da7ed83f2232a3c8",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a134a2-4e98-729a-85ed-ae6126c7b1f8",
+        "android": "01a134a2-4e98-7ece-840a-78aafed9f00f"
+      }
+    },
+    {
       "groupId": "d9d7df04-9d80-4900-a77e-7a59bd014bb7",
       "createdAt": "2026-10-12T19:16:27.406Z",
       "runtimeVersion": "0.13.0",
