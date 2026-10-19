@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "153d1cd3-4239-4a1b-9ca1-0a1305a3c69a",
+      "createdAt": "2026-10-19T19:59:15.971Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "Merge branch 'main' into develop",
+      "commit": "91ecc61ba40dafed623ab8849175744db563200c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a155bf-3203-7176-86b9-67e236f01a06",
+        "android": "01a155bf-3203-7755-8d37-239c51ce760c"
+      }
+    },
+    {
       "groupId": "d408f76c-4958-427a-83ce-0015e581f618",
       "createdAt": "2026-10-13T11:35:48.873Z",
       "runtimeVersion": "0.13.0",
