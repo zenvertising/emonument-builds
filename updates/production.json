@@ -2,6 +2,19 @@
   "channel": "production",
   "updates": [
     {
+      "groupId": "cdb23c77-c617-4bc6-9997-69aa51d5ba10",
+      "createdAt": "2026-10-19T20:17:19.097Z",
+      "runtimeVersion": "0.13.0",
+      "tag": "v2.0.3",
+      "subject": "fix(sync): stop losing field edits in autosave and on push retries (#271)",
+      "commit": "300decaa9ea3e54b5517ff517f384610fd215b10",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a155cf-b8f9-7f05-a3fa-b8f1298a1675",
+        "android": "01a155cf-b8f9-7736-b22f-817124e365f2"
+      }
+    },
+    {
       "groupId": "a057e0b3-d92f-43d2-bf42-5cacc98713ff",
       "createdAt": "2026-10-13T10:12:14.102Z",
       "runtimeVersion": "0.13.0",
