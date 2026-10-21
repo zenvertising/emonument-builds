@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "c9a8e14b-4795-4cda-b3e3-66cc40aa2fbc",
+      "createdAt": "2026-10-21T19:23:14.664Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form): render sections nested below the second level (#278)",
+      "commit": "b644b95ec8e72e8b4cbf31b14953fd50d2813768",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a15fea-ef68-7144-a61d-939c74e03c07",
+        "android": "01a15fea-ef68-721d-adac-342b634b7e7b"
+      }
+    },
+    {
       "groupId": "ab77f055-f7a8-4588-a1de-dde0aca52d21",
       "createdAt": "2026-10-21T18:48:48.387Z",
       "runtimeVersion": "0.13.0",
