@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ab77f055-f7a8-4588-a1de-dde0aca52d21",
+      "createdAt": "2026-10-21T18:48:48.387Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form): ask to fix the marked fields when a section fails validation (#277)",
+      "commit": "0f3832c93b7c6f083206434f44fca3f40fb87c54",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a15fcb-6803-72c7-9c5a-1a4d871a69c9",
+        "android": "01a15fcb-6803-7b25-90ba-a239ba425b02"
+      }
+    },
+    {
       "groupId": "ed7d7a9d-7602-48bf-8550-ab151addf58c",
       "createdAt": "2026-10-21T18:36:02.784Z",
       "runtimeVersion": "0.13.0",
