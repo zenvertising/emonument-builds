@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ace6323c-2edf-4a49-8fc1-12a4f3ef294b",
+      "createdAt": "2026-10-21T17:48:45.762Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "refactor(sync): add a section push path that runs without a workflow transition (#272)",
+      "commit": "24a5fa42900bac18709d1b8f21b5afbb09c5de80",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a15f94-6f42-7874-8911-d5e65115f5c4",
+        "android": "01a15f94-6f42-7309-b100-fe87fa01c5b6"
+      }
+    },
+    {
       "groupId": "153d1cd3-4239-4a1b-9ca1-0a1305a3c69a",
       "createdAt": "2026-10-19T19:59:15.971Z",
       "runtimeVersion": "0.13.0",
