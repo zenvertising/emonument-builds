@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8ba76306-af0a-4664-acef-b3cbca93703d",
+      "createdAt": "2026-10-21T18:00:07.529Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "refactor(sync): run section transitions on top of the new push path (#273)",
+      "commit": "1515a2a30acb84c2d005f6978e274426d02f3761",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a15f9e-d669-78e9-ba59-54da8ebeb8e3",
+        "android": "01a15f9e-d669-7724-bfc1-f82c03ea61b1"
+      }
+    },
+    {
       "groupId": "ace6323c-2edf-4a49-8fc1-12a4f3ef294b",
       "createdAt": "2026-10-21T17:48:45.762Z",
       "runtimeVersion": "0.13.0",
