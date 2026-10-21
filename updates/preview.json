@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "39a4784e-f63e-413c-ba72-6c7342437c11",
+      "createdAt": "2026-10-21T18:22:20.964Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(form): save section values to the server without a workflow step (#275)",
+      "commit": "b0590effb857c51b3737f8cacdc6a859ae189f7d",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a15fb3-2f24-7123-983c-965f08eb8e2e",
+        "android": "01a15fb3-2f24-7a3e-a1c8-96a29c25d6ce"
+      }
+    },
+    {
       "groupId": "8ba76306-af0a-4664-acef-b3cbca93703d",
       "createdAt": "2026-10-21T18:00:07.529Z",
       "runtimeVersion": "0.13.0",
