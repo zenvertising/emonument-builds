@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ed7d7a9d-7602-48bf-8550-ab151addf58c",
+      "createdAt": "2026-10-21T18:36:02.784Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): push a cleared field to the server as null (#276)",
+      "commit": "d78b3e54803dfcbe999a22f07d53b951d5558461",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a15fbf-b960-70a4-888b-080da584488f",
+        "android": "01a15fbf-b960-7426-86f4-ae188c10b6a5"
+      }
+    },
+    {
       "groupId": "39a4784e-f63e-413c-ba72-6c7342437c11",
       "createdAt": "2026-10-21T18:22:20.964Z",
       "runtimeVersion": "0.13.0",
