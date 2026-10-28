@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "c4ec461a-320e-4629-b3cc-7f069468951b",
+      "createdAt": "2026-10-28T18:10:54.468Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form): read a single picklist value as a one-item multi-select [REQ-A36] (#280)",
+      "commit": "110ef113905b3374265bf8efe6d7364d5593525c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a183b5-3984-7f82-b5c2-47e8163be74f",
+        "android": "01a183b5-3984-71c0-8cd7-9a29449ca971"
+      }
+    },
+    {
       "groupId": "c9a8e14b-4795-4cda-b3e3-66cc40aa2fbc",
       "createdAt": "2026-10-21T19:23:14.664Z",
       "runtimeVersion": "0.13.0",
