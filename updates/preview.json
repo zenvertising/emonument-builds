@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "78914a36-1d69-48d7-8323-af3a87e71698",
+      "createdAt": "2026-10-28T20:15:49.495Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): keep a photo deleted offline from coming back after sync [REQ-A31] (#281)",
+      "commit": "b9ecac4a10c513e8565fbc5d949407a8d43f01a3",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a18427-96f7-78fd-bec3-8cd834ff90e6",
+        "android": "01a18427-96f7-7a71-a93b-ad60b6672d96"
+      }
+    },
+    {
       "groupId": "c4ec461a-320e-4629-b3cc-7f069468951b",
       "createdAt": "2026-10-28T18:10:54.468Z",
       "runtimeVersion": "0.13.0",
