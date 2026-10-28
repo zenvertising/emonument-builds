@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "010f6291-4850-4fdc-abd6-4f6064194c9f",
+      "createdAt": "2026-10-28T22:09:13.681Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form): let a picked date, month or year be cleared [REQ-A30] (#282)",
+      "commit": "d2219cc750fa43dce562b1e1701fdffb25c5b202",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1848f-69d1-7c97-ac55-f50b26243560",
+        "android": "01a1848f-69d1-7814-8953-86409456f9d9"
+      }
+    },
+    {
       "groupId": "78914a36-1d69-48d7-8323-af3a87e71698",
       "createdAt": "2026-10-28T20:15:49.495Z",
       "runtimeVersion": "0.13.0",
