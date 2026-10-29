@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e3fbafed-650a-46ed-bf98-02f59b694d14",
+      "createdAt": "2026-10-29T19:30:20.227Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ui): keep the last option and info-point text above the Android navigation bar [REQ-A37] (#289)",
+      "commit": "b711f55b82456dd2c04b524b0cf950a9ad41f813",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a18924-4dc3-7c91-bbf8-cfdf2ba233ec",
+        "android": "01a18924-4dc3-799c-a6cc-acfda12d1c65"
+      }
+    },
+    {
       "groupId": "0f78eeea-f49c-46dc-b380-e88b0d29a546",
       "createdAt": "2026-10-29T18:34:19.391Z",
       "runtimeVersion": "0.13.0",
