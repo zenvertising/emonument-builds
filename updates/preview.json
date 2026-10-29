@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "72a436a8-26ba-4fba-b332-4c1687cb5e55",
+      "createdAt": "2026-10-29T18:07:23.837Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(search): find sheets, places and options regardless of diacritics [REQ-A3] (#286)",
+      "commit": "a23d777b0ba6c2c09d8bf57cc5041977f6111e84",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a188d8-5ebd-7545-b14c-516de89cfe63",
+        "android": "01a188d8-5ebd-71b8-b94d-2d0c4e310009"
+      }
+    },
+    {
       "groupId": "d8c569c0-565c-4ce6-9109-69f150601931",
       "createdAt": "2026-10-29T17:15:13.193Z",
       "runtimeVersion": "0.13.0",
