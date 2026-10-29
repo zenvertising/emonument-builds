@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e5814168-7a17-4f9d-b054-8f8e95e1f37c",
+      "createdAt": "2026-10-29T15:16:43.503Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(form): show clone and delete icons on each repeater row [REQ-A30] (#284)",
+      "commit": "c50b564a9ec7bb5b517ad8282c9c5d2b86722e9a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1883c-1d6f-7237-bba8-7987271d4070",
+        "android": "01a1883c-1d6f-751f-a6e5-8ce9255570ae"
+      }
+    },
+    {
       "groupId": "010f6291-4850-4fdc-abd6-4f6064194c9f",
       "createdAt": "2026-10-28T22:09:13.681Z",
       "runtimeVersion": "0.13.0",
