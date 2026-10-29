@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "0f78eeea-f49c-46dc-b380-e88b0d29a546",
+      "createdAt": "2026-10-29T18:34:19.391Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(lookup): find a place by its SIRUTA code (#287)",
+      "commit": "5970fbc3d6df0aabc1b03b3731cef8f1b99ae553",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a188f1-057f-73aa-afcc-6276c2c985fc",
+        "android": "01a188f1-057f-7813-b2fa-742c9bd5b257"
+      }
+    },
+    {
       "groupId": "72a436a8-26ba-4fba-b332-4c1687cb5e55",
       "createdAt": "2026-10-29T18:07:23.837Z",
       "runtimeVersion": "0.13.0",
