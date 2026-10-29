@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d8c569c0-565c-4ce6-9109-69f150601931",
+      "createdAt": "2026-10-29T17:15:13.193Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(form): set level-1 repeater entries apart with a teal fill and a thin stripe [REQ-A1] (#285)",
+      "commit": "54e6e1c7fc9005cdd8a9ab00eda7a2a0ba1bf4fd",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a188a8-99a9-7618-baf0-df2618156dce",
+        "android": "01a188a8-99a9-7c03-8d6b-34022fe24919"
+      }
+    },
+    {
       "groupId": "2f192293-edd9-4bf4-9b3d-23ab5d2f89a1",
       "createdAt": "2026-10-29T17:01:54.032Z",
       "runtimeVersion": "0.13.0",
