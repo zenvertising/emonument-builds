@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "39f394d1-7e9f-4e2f-b638-4f36eed5d4e3",
+      "createdAt": "2026-10-29T19:39:14.448Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ui): use dark status-bar icons on the app's light screens (#288)",
+      "commit": "daadc229fb3c9730e88bec25ad099acd5fdeaecb",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1892c-7490-7d30-8c9b-84e07947c335",
+        "android": "01a1892c-7490-7fe2-afd4-c65b11937d9d"
+      }
+    },
+    {
       "groupId": "e3fbafed-650a-46ed-bf98-02f59b694d14",
       "createdAt": "2026-10-29T19:30:20.227Z",
       "runtimeVersion": "0.13.0",
