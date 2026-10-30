@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ac0ca3c4-16c4-4df5-b072-e9b9f25bd6c9",
+      "createdAt": "2026-10-30T10:35:51.287Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "Feat/section save confirmation (#291)",
+      "commit": "53c461f9349efa0f26aac7a43d0872891f1eca8b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a18c61-5477-7ecd-9391-4fe6ba89180a",
+        "android": "01a18c61-5477-70ad-8711-3cde8f2d8e82"
+      }
+    },
+    {
       "groupId": "e2e13744-45f3-49dc-822d-f0e55cf76b04",
       "createdAt": "2026-10-30T09:12:15.691Z",
       "runtimeVersion": "0.13.0",
