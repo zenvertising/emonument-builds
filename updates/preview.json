@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e815fb12-0f04-4358-8cb6-fb7692eef785",
+      "createdAt": "2026-10-30T11:03:57.082Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(form): confirm every local autosave in the section form (#291)",
+      "commit": "b6ed4bad2320a76608b8b3f047aa15605118a8f9",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a18c7b-0d9a-781c-804d-0cca74db4259",
+        "android": "01a18c7b-0d9a-727a-9136-24b2477db5c9"
+      }
+    },
+    {
       "groupId": "ac0ca3c4-16c4-4df5-b072-e9b9f25bd6c9",
       "createdAt": "2026-10-30T10:35:51.287Z",
       "runtimeVersion": "0.13.0",
