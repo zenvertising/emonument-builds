@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e2e13744-45f3-49dc-822d-f0e55cf76b04",
+      "createdAt": "2026-10-30T09:12:15.691Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ui): keep the field being typed in above the keyboard [REQ-A37] (#290)",
+      "commit": "3bd13d9f5d68575684cb4c695698bc2d12ec4cd1",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a18c14-cc4b-71a0-b770-6e5c333e32bb",
+        "android": "01a18c14-cc4b-765e-8fd5-a856a2b6a719"
+      }
+    },
+    {
       "groupId": "39f394d1-7e9f-4e2f-b638-4f36eed5d4e3",
       "createdAt": "2026-10-29T19:39:14.448Z",
       "runtimeVersion": "0.13.0",
