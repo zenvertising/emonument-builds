@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "765450c4-5a35-44cd-a42b-f841bdbd95af",
+      "createdAt": "2026-11-02T17:10:41.654Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): show the LMI and RAN codes in the sheet list [REQ-A27] (#293)",
+      "commit": "171a5baef4a01faa81829a5bbfb43db10cef665b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a19d3d-e4f6-7ebb-98f1-bca758effb2e",
+        "android": "01a19d3d-e4f6-7f8a-8332-6d26046835a6"
+      }
+    },
+    {
       "groupId": "4ace2ff7-2add-4456-bdf8-d7524138feb0",
       "createdAt": "2026-10-30T11:33:09.586Z",
       "runtimeVersion": "0.13.0",
