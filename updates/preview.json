@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ea00727f-7969-4a2c-a264-ae510565a2bf",
+      "createdAt": "2026-11-03T22:20:45.059Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(dev): let the DEV overlay scroll again on Android (#298)",
+      "commit": "2fd0636614a0d18c40c61dc3238171a73ec1ac62",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a380-1e83-780c-8496-39823b95be9a",
+        "android": "01a1a380-1e83-7c39-ad8d-849a3b55c072"
+      }
+    },
+    {
       "groupId": "1cea9298-71d4-4097-8737-585817047e04",
       "createdAt": "2026-11-03T20:11:01.383Z",
       "runtimeVersion": "0.13.0",
