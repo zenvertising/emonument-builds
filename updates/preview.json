@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "1a6e11f6-5e48-48fe-9658-22bf3ece9ba0",
+      "createdAt": "2026-11-03T22:43:25.021Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(map): draw roads by class and more map layers offline (#299)",
+      "commit": "41c9f0ba5f0638d9f3bff3b7dd9dcb8e388e715c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a394-dedd-7893-840b-47d670a66f64",
+        "android": "01a1a394-dedd-73c5-9564-beffa5c98510"
+      }
+    },
+    {
       "groupId": "ea00727f-7969-4a2c-a264-ae510565a2bf",
       "createdAt": "2026-11-03T22:20:45.059Z",
       "runtimeVersion": "0.13.0",
