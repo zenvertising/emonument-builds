@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "f2055c54-6694-43fd-b3fa-0975596bc5a8",
+      "createdAt": "2026-11-03T12:51:19.500Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(photos): upload the original photo instead of a compressed copy [REQ-A14 REQ-A15] (#294)",
+      "commit": "405aebd32ecc939ee9a138767942e93de5593624",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a176-cb4c-7349-9b44-afe383e24ed3",
+        "android": "01a1a176-cb4c-70d6-a9ca-26acce52187a"
+      }
+    },
+    {
       "groupId": "765450c4-5a35-44cd-a42b-f841bdbd95af",
       "createdAt": "2026-11-02T17:10:41.654Z",
       "runtimeVersion": "0.13.0",
