@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "48125b76-2def-47d8-bfe0-1293e0787a67",
+      "createdAt": "2026-11-03T13:00:03.668Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ui): slide sheets in and reuse cached photos when opening a photo (#295)",
+      "commit": "56784bceeb24e630ced699e840ddb57c53513bc6",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a17e-cad4-7314-befd-94069910485a",
+        "android": "01a1a17e-cad4-7617-9820-b06c4644f296"
+      }
+    },
+    {
       "groupId": "f2055c54-6694-43fd-b3fa-0975596bc5a8",
       "createdAt": "2026-11-03T12:51:19.500Z",
       "runtimeVersion": "0.13.0",
