@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "1cea9298-71d4-4097-8737-585817047e04",
+      "createdAt": "2026-11-03T20:11:01.383Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "chore: add npm run gate (#297)",
+      "commit": "2944be9c84210f32eab7ef329ac46f2b3901fad2",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a309-5987-7523-a305-9f47045d26cb",
+        "android": "01a1a309-5987-7f8c-9c68-857aed44fe18"
+      }
+    },
+    {
       "groupId": "a2fb3967-b0f0-4cb0-b402-2a31493b80a2",
       "createdAt": "2026-11-03T15:53:13.496Z",
       "runtimeVersion": "0.13.0",
