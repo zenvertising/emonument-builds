@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "a2fb3967-b0f0-4cb0-b402-2a31493b80a2",
+      "createdAt": "2026-11-03T15:53:13.496Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(photos): tell the operator offline which photos are only on the server (#296)",
+      "commit": "26e7ecfa27e11b4631f0a5815f091d5d6863c223",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a21d-5418-74a7-96c7-9c340b1ea3ed",
+        "android": "01a1a21d-5418-7e2e-97ed-2cc62748b8f6"
+      }
+    },
+    {
       "groupId": "48125b76-2def-47d8-bfe0-1293e0787a67",
       "createdAt": "2026-11-03T13:00:03.668Z",
       "runtimeVersion": "0.13.0",
