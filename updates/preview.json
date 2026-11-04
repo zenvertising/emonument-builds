@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "3e477716-a58d-424e-a222-65a67b93f3b7",
+      "createdAt": "2026-11-04T20:23:34.628Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(map): capture GPS points only from a precise, fresh fix and keep the live pin moving [REQ-A32] (#301)",
+      "commit": "8259f5e5baf26eb68ab9762b9706f5592067ca28",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a83b-33e4-7d23-ad6a-c5e6d04a82fb",
+        "android": "01a1a83b-33e4-7136-ac85-05a821ea2fed"
+      }
+    },
+    {
       "groupId": "b2cb6d02-e250-4e5f-a005-76b37a43ec66",
       "createdAt": "2026-11-03T23:59:28.859Z",
       "runtimeVersion": "0.13.0",
