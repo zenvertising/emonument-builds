@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "b2cb6d02-e250-4e5f-a005-76b37a43ec66",
+      "createdAt": "2026-11-03T23:59:28.859Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(photos): show EXIF details on the photo and flag a missing GPS or date [REQ-A16] (#300)",
+      "commit": "79fad448efb20f5048720f5cc97c89983003163a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1a3da-825b-7a1b-95a2-33c98b16c2e2",
+        "android": "01a1a3da-825b-7622-bcf7-f306122827d1"
+      }
+    },
+    {
       "groupId": "1a6e11f6-5e48-48fe-9658-22bf3ece9ba0",
       "createdAt": "2026-11-03T22:43:25.021Z",
       "runtimeVersion": "0.13.0",
