@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8d4914cb-2e3d-4fab-9f9a-ddaf70175be7",
+      "createdAt": "2026-11-05T19:06:25.723Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): let the operator delete and move their own server photos [REQ-A31] (#304)",
+      "commit": "5ba285f1c5be071155e287e1ed4d79911a93db93",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ad1a-ee3b-7828-8f75-b2ec3c421e27",
+        "android": "01a1ad1a-ee3b-77c4-a807-44fdf2333632"
+      }
+    },
+    {
       "groupId": "f08b6822-b05a-43cc-b2e1-590fb9ac3d87",
       "createdAt": "2026-11-05T18:40:11.865Z",
       "runtimeVersion": "0.13.0",
