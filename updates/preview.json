@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "f08b6822-b05a-43cc-b2e1-590fb9ac3d87",
+      "createdAt": "2026-11-05T18:40:11.865Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): save and delete with the photo's current server id (#305)",
+      "commit": "dfd4ce83bc8fb03054d0519d1264d3005ab1f338",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ad02-ea59-75d5-b144-d3a414314f11",
+        "android": "01a1ad02-ea59-7fdf-ab30-621a9e4ad77f"
+      }
+    },
+    {
       "groupId": "9c3c7c62-bbc1-46c0-b539-648ce3240398",
       "createdAt": "2026-11-05T15:03:35.125Z",
       "runtimeVersion": "0.13.0",
