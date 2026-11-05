@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "9c3c7c62-bbc1-46c0-b539-648ce3240398",
+      "createdAt": "2026-11-05T15:03:35.125Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(map): push captured GIS points right away and show what is still unsent [REQ-A32] (#303)",
+      "commit": "065b0fc66bc90af478655b7ea734b5a79926bc82",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ac3c-99d5-7efa-a907-f9032c9138fc",
+        "android": "01a1ac3c-99d5-7f75-bfa4-be02b1beefa4"
+      }
+    },
+    {
       "groupId": "bd6c8fd7-0b3b-4198-b3db-73c3284263ba",
       "createdAt": "2026-11-05T12:25:43.736Z",
       "runtimeVersion": "0.13.0",
