@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "bd6c8fd7-0b3b-4198-b3db-73c3284263ba",
+      "createdAt": "2026-11-05T12:25:43.736Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): give push calls 60 s before timing out and show progress on the Sync tab (#302)",
+      "commit": "9f1b8fa19ed0a5d226426f1a0f982873cbb085b7",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1abac-1438-7ac5-aa2d-b789752dd478",
+        "android": "01a1abac-1438-7d5a-a91b-c054ad3fdfa8"
+      }
+    },
+    {
       "groupId": "3e477716-a58d-424e-a222-65a67b93f3b7",
       "createdAt": "2026-11-04T20:23:34.628Z",
       "runtimeVersion": "0.13.0",
