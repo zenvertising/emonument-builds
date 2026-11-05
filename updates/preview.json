@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "4415cc08-f1a5-4c43-901d-9322a50a42bc",
+      "createdAt": "2026-11-05T20:40:25.350Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(auth): keep the sign-in and password forms above the keyboard (#306)",
+      "commit": "255e6b534ddd7e8d28483c560f26f7cbdfe66f25",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ad70-fc06-7960-8490-7481899ba9b8",
+        "android": "01a1ad70-fc06-7b07-9ac6-b614b19a13ce"
+      }
+    },
+    {
       "groupId": "8d4914cb-2e3d-4fab-9f9a-ddaf70175be7",
       "createdAt": "2026-11-05T19:06:25.723Z",
       "runtimeVersion": "0.13.0",
