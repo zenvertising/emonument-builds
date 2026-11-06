@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d4e4095f-a9e3-4aeb-b4f8-f4e444be8f16",
+      "createdAt": "2026-11-06T22:28:42.804Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sheets): show the lock only on sections that are really locked [REQ-A29] (#310)",
+      "commit": "73582e18ce75a66b7207211e183c75d02a4ad389",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b2fa-7cb4-73d5-be44-caaa94e0778d",
+        "android": "01a1b2fa-7cb4-7439-967a-30a670993875"
+      }
+    },
+    {
       "groupId": "34b461bd-8ce7-4d4b-a135-80a5e1414a47",
       "createdAt": "2026-11-06T22:11:55.747Z",
       "runtimeVersion": "0.13.0",
