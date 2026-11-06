@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "34b461bd-8ce7-4d4b-a135-80a5e1414a47",
+      "createdAt": "2026-11-06T22:11:55.747Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): send several sections to verification at once [REQ-A29] (#308)",
+      "commit": "f0fb09a49c2b87a66dc6c07513eb1fa0ffbc5d2b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b2eb-1ee3-7198-8045-470f7e47f031",
+        "android": "01a1b2eb-1ee3-7c7c-9d5c-b104a17e9a46"
+      }
+    },
+    {
       "groupId": "5616293c-bed9-4e25-94b2-4de82acb2eae",
       "createdAt": "2026-11-06T21:33:15.200Z",
       "runtimeVersion": "0.13.0",
