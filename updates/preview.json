@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "a1c7a317-4cdc-4756-8941-a90cb2dae629",
+      "createdAt": "2026-11-06T23:31:50.847Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ds): keep toasts below the status bar with a side gutter (#311)",
+      "commit": "bfc51ade3c01e68cb24174aef7ba6311edd4ffd9",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b334-49bf-7868-8000-c054ca0a69fd",
+        "android": "01a1b334-49bf-7007-9909-8dc2427ee895"
+      }
+    },
+    {
       "groupId": "d4e4095f-a9e3-4aeb-b4f8-f4e444be8f16",
       "createdAt": "2026-11-06T22:28:42.804Z",
       "runtimeVersion": "0.13.0",
