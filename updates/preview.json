@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "bfb6ab50-262a-425c-9c49-2c928623e08b",
+      "createdAt": "2026-11-06T23:46:55.480Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): stack the delete confirmation buttons on phones (#312)",
+      "commit": "59c0d85869b6c7e7e4e74543192612fa507e21a0",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b342-1778-7489-9ad2-07943239ea26",
+        "android": "01a1b342-1778-723a-b73b-831c58eb5b56"
+      }
+    },
+    {
       "groupId": "a1c7a317-4cdc-4756-8941-a90cb2dae629",
       "createdAt": "2026-11-06T23:31:50.847Z",
       "runtimeVersion": "0.13.0",
