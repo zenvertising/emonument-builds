@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "5616293c-bed9-4e25-94b2-4de82acb2eae",
+      "createdAt": "2026-11-06T21:33:15.200Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): foundation for sending several sections at once [REQ-A29] (#307)",
+      "commit": "ff231aa3f2b7ccacf975c8da46fda8ef174da6e5",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b2c7-b640-75b9-a59b-612710cd50b0",
+        "android": "01a1b2c7-b640-7e21-a738-76b816feb333"
+      }
+    },
+    {
       "groupId": "4415cc08-f1a5-4c43-901d-9322a50a42bc",
       "createdAt": "2026-11-05T20:40:25.350Z",
       "runtimeVersion": "0.13.0",
