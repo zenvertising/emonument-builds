@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8f0b6f38-7b1e-4248-809f-ff016bf541c2",
+      "createdAt": "2026-11-06T23:59:46.264Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sheets): show the sheet code once in the sheet subtitle (#314)",
+      "commit": "240bbe2d11248c9e0980b87a7fcc084f2d055736",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b34d-da58-71de-a396-178275ba510b",
+        "android": "01a1b34d-da58-7c41-a460-5362c9b4356a"
+      }
+    },
+    {
       "groupId": "bfb6ab50-262a-425c-9c49-2c928623e08b",
       "createdAt": "2026-11-06T23:46:55.480Z",
       "runtimeVersion": "0.13.0",
