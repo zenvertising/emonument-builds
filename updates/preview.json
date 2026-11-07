@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "5093c50c-4c27-4866-a559-ae73458f1672",
+      "createdAt": "2026-11-07T00:12:09.236Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ds): wrap long button labels inside the button (#316)",
+      "commit": "3e8608108c323e6cd5c183d8e5cdd25c32c606f4",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b359-3094-76ca-82d7-dca0ee8bd468",
+        "android": "01a1b359-3094-78fa-bfee-bac821ee285b"
+      }
+    },
+    {
       "groupId": "8f0b6f38-7b1e-4248-809f-ff016bf541c2",
       "createdAt": "2026-11-06T23:59:46.264Z",
       "runtimeVersion": "0.13.0",
