@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "0a292e12-4d00-4880-a407-7676b6f1cc3e",
+      "createdAt": "2026-11-07T11:20:05.719Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): shorten the top bar button to „Adaugă\" (#317)",
+      "commit": "c1a5caa45fc75cf5a73cf080f67064a520a6ad11",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1b5bc-b557-7319-aff5-c762e3f73296",
+        "android": "01a1b5bc-b557-7baa-9b2a-93586023ec8c"
+      }
+    },
+    {
       "groupId": "5093c50c-4c27-4866-a559-ae73458f1672",
       "createdAt": "2026-11-07T00:12:09.236Z",
       "runtimeVersion": "0.13.0",
