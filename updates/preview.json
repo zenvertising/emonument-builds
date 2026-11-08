@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "7721cd65-349d-4497-bcc5-248b978a5a1d",
+      "createdAt": "2026-11-08T20:14:07.136Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(forms): pick historical years and months without paging (#319)",
+      "commit": "5bdd10b87055d0eb79ccfccddcf95ea319f7e938",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1bccb-fb20-7d51-ada5-3ac80860eee1",
+        "android": "01a1bccb-fb20-722e-aebc-c730418c0898"
+      }
+    },
+    {
       "groupId": "0a292e12-4d00-4880-a407-7676b6f1cc3e",
       "createdAt": "2026-11-07T11:20:05.719Z",
       "runtimeVersion": "0.13.0",
