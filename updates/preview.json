@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "c95d1de9-5376-4262-8108-5084dd47e1af",
+      "createdAt": "2026-11-09T05:51:33.897Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(forms): render help-text Markdown like the web (#320)",
+      "commit": "3560060bef893960522f8203f36152a72cb382ab",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1bedc-a609-7681-9d28-80b7ee8dd9e2",
+        "android": "01a1bedc-a609-7d45-ab2d-d5004493f52b"
+      }
+    },
+    {
       "groupId": "7721cd65-349d-4497-bcc5-248b978a5a1d",
       "createdAt": "2026-11-08T20:14:07.136Z",
       "runtimeVersion": "0.13.0",
