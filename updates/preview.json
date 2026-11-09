@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "3307f58a-4257-435f-88bd-1691abe2c3cb",
+      "createdAt": "2026-11-09T23:19:50.302Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sheets): move the sheet status into the summary card and shrink status badges (#327)",
+      "commit": "5839bd65c28c71536a1f3692c7bd6524fc411904",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c29c-5f1e-71b4-9493-d74b8e5fbb3e",
+        "android": "01a1c29c-5f1e-7228-8d5b-064b30eb1bca"
+      }
+    },
+    {
       "groupId": "1d4d6c61-13ef-44bf-b186-29463d08fdfb",
       "createdAt": "2026-11-09T16:18:28.400Z",
       "runtimeVersion": "0.13.0",
