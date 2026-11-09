@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "572f2e7b-6e55-4754-9a2e-9f85c8a79e2b",
+      "createdAt": "2026-11-09T23:31:32.624Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): show name, codes, place and sync time in the sheet detail card (#328)",
+      "commit": "fb207c5ba5e5711b4c55089ed77dfd4feba3ddb2",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c2a7-1690-73f3-879e-be44cd76c10d",
+        "android": "01a1c2a7-1690-7441-99eb-7639a0f07bb6"
+      }
+    },
+    {
       "groupId": "3307f58a-4257-435f-88bd-1691abe2c3cb",
       "createdAt": "2026-11-09T23:19:50.302Z",
       "runtimeVersion": "0.13.0",
