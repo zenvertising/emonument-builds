@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "7548c3c8-8159-407e-b66d-0bcafa78b7f6",
+      "createdAt": "2026-11-09T09:11:10.441Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(forms): alternate teal and gold on level-1 repeater entries [REQ-A1] (#321)",
+      "commit": "70ab12bb3685977a6322848cd2eaa9607447f42c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1bf93-6569-7a82-9f9b-e263d5a1f0cc",
+        "android": "01a1bf93-6569-73f6-a7d6-3c53ff524be6"
+      }
+    },
+    {
       "groupId": "c95d1de9-5376-4262-8108-5084dd47e1af",
       "createdAt": "2026-11-09T05:51:33.897Z",
       "runtimeVersion": "0.13.0",
