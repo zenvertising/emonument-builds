@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "52b0f8df-c9a7-4d66-9ff5-7b4b428708f2",
+      "createdAt": "2026-11-09T13:39:52.548Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(photos): stack the delete confirmation when the drawer is narrow (#324)",
+      "commit": "c82d44db14d15d47dd4df39ff2eab05ac94e3485",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c089-6664-7512-9a14-90218e82c42d",
+        "android": "01a1c089-6664-7d0d-be46-893c6e4f8f4e"
+      }
+    },
+    {
       "groupId": "d154fbcb-8a05-433d-8fc7-da32b678634c",
       "createdAt": "2026-11-09T13:27:18.146Z",
       "runtimeVersion": "0.13.0",
