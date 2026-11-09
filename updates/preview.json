@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e32ae220-6ceb-498f-a076-b771d780e5cb",
+      "createdAt": "2026-11-09T23:43:59.897Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sheets): show the sheet status as a badge on the list row (#330)",
+      "commit": "d17c6aa95ffa580d041d038979e73e3a37f5beb5",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c2b2-7d99-7ed6-b7af-af8f6162de16",
+        "android": "01a1c2b2-7d99-7a59-bbf9-5e446bace03c"
+      }
+    },
+    {
       "groupId": "572f2e7b-6e55-4754-9a2e-9f85c8a79e2b",
       "createdAt": "2026-11-09T23:31:32.624Z",
       "runtimeVersion": "0.13.0",
