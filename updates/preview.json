@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d154fbcb-8a05-433d-8fc7-da32b678634c",
+      "createdAt": "2026-11-09T13:27:18.146Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(forms): badge a repeater's own header error in the field navigator (#323)",
+      "commit": "a18d4ed09e6d908b144ff80bbe53dd127b2e0f3e",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c07d-e382-776c-b8e9-5ff650dd3848",
+        "android": "01a1c07d-e382-79f1-b520-94c084fe1f80"
+      }
+    },
+    {
       "groupId": "80011243-2448-4b17-8034-c5272310b48f",
       "createdAt": "2026-11-09T11:05:29.480Z",
       "runtimeVersion": "0.13.0",
