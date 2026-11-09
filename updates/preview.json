@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "1d4d6c61-13ef-44bf-b186-29463d08fdfb",
+      "createdAt": "2026-11-09T16:18:28.400Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): refresh synced sheets in parallel and say so on the form card (#325)",
+      "commit": "319a7c4fd4d296d247b359c20e8d146af06d5dab",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c11a-99b0-71e6-b7e4-6cea14b5b189",
+        "android": "01a1c11a-99b0-7c82-818d-60f2bd399005"
+      }
+    },
+    {
       "groupId": "92046582-a8fc-4b69-a838-713c43e01cea",
       "createdAt": "2026-11-09T16:07:07.826Z",
       "runtimeVersion": "0.13.0",
