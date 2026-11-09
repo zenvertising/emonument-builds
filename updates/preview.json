@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "80011243-2448-4b17-8034-c5272310b48f",
+      "createdAt": "2026-11-09T11:05:29.480Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(forms): block future dates and reversed intervals like the server (#322)",
+      "commit": "380d8d602e3974e63b0af5c2a76655ab9fa8f6f2",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1bffc-0e88-7ef8-a3e3-aec608913ed3",
+        "android": "01a1bffc-0e88-7ba7-9329-abc4222c9649"
+      }
+    },
+    {
       "groupId": "7548c3c8-8159-407e-b66d-0bcafa78b7f6",
       "createdAt": "2026-11-09T09:11:10.441Z",
       "runtimeVersion": "0.13.0",
