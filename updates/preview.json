@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "92046582-a8fc-4b69-a838-713c43e01cea",
+      "createdAt": "2026-11-09T16:07:07.826Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(forms): show an empty autofill field's message once (#326)",
+      "commit": "25433cebc43cc720e2284d459b562ba6ca840703",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c110-3732-7d60-b2ea-30905c26932a",
+        "android": "01a1c110-3732-7b0d-903a-6de9c3acbd6c"
+      }
+    },
+    {
       "groupId": "52b0f8df-c9a7-4d66-9ff5-7b4b428708f2",
       "createdAt": "2026-11-09T13:39:52.548Z",
       "runtimeVersion": "0.13.0",
