@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d3b840b1-7252-49e6-9597-4e3c2501de6f",
+      "createdAt": "2026-11-10T10:41:39.544Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): keep a repeater lookup's parents in the pushed item (#331)",
+      "commit": "9586d0a037b23043970be4cdbd34be958689bfd4",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c50c-98d8-76ae-a1b4-2b42ac698b99",
+        "android": "01a1c50c-98d8-7a1a-875c-e677d76b079f"
+      }
+    },
+    {
       "groupId": "e32ae220-6ceb-498f-a076-b771d780e5cb",
       "createdAt": "2026-11-09T23:43:59.897Z",
       "runtimeVersion": "0.13.0",
