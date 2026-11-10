@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d2136043-575f-4aa2-bb89-50f930d9388d",
+      "createdAt": "2026-11-10T17:37:48.869Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): split the sheet detail summary into an identity card and a status card (#336)",
+      "commit": "b31f185990f8ec87b09f918e89f1d8b6835204f5",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c689-9945-72e2-a380-b6b744522f87",
+        "android": "01a1c689-9945-7422-be96-59f0f440edb1"
+      }
+    },
+    {
       "groupId": "41de2f14-6b9d-4830-8f4a-8d1edce23540",
       "createdAt": "2026-11-10T17:25:47.692Z",
       "runtimeVersion": "0.13.0",
