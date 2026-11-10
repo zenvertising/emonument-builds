@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "41de2f14-6b9d-4830-8f4a-8d1edce23540",
+      "createdAt": "2026-11-10T17:25:47.692Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sheets): keep the group rows inside their card on sheet detail (#335)",
+      "commit": "bdee87285fa7e5134d46d86d6bf3b8e1f3a1663a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c67e-982c-737a-8f97-24b70fc3c925",
+        "android": "01a1c67e-982c-7af2-a6c9-20be75dab890"
+      }
+    },
+    {
       "groupId": "7c7c392b-c289-4f49-bcbc-6ae38c2b315c",
       "createdAt": "2026-11-10T12:31:10.690Z",
       "runtimeVersion": "0.13.0",
