@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "c04535d0-d3cc-4cc8-a869-83635d1a41c1",
+      "createdAt": "2026-11-10T12:18:47.900Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(nav): move the tab route helper out of the router folder (#333)",
+      "commit": "e239d401046c07e2a0811b976d99441047dcad2a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c565-87dc-7bd7-9787-ac4abf4dc07b",
+        "android": "01a1c565-87dc-79ea-b131-f3a05c463259"
+      }
+    },
+    {
       "groupId": "d3b840b1-7252-49e6-9597-4e3c2501de6f",
       "createdAt": "2026-11-10T10:41:39.544Z",
       "runtimeVersion": "0.13.0",
