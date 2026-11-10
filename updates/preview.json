@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "b8c5715c-ad32-49ee-bd49-bfd118c1dc47",
+      "createdAt": "2026-11-10T21:39:52.449Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(dashboard): show status icons, a status bar and clearer sync and continue cards (#340)",
+      "commit": "986a7b0574ac12221ff4216e3be2fbfc0861b2cc",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c767-3601-7a85-859d-24996f9d8079",
+        "android": "01a1c767-3601-7df1-bb7c-ee91ee113ee8"
+      }
+    },
+    {
       "groupId": "20a840c0-a04a-4b8e-b4d8-25e3b8a35c34",
       "createdAt": "2026-11-10T21:26:53.733Z",
       "runtimeVersion": "0.13.0",
