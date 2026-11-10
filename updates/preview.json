@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "20a840c0-a04a-4b8e-b4d8-25e3b8a35c34",
+      "createdAt": "2026-11-10T21:26:53.733Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(ds): add a white surface token and card tone, a SegmentedControl primitive and the Archive icon (#339)",
+      "commit": "48a38508771dd0632aca36dfedf42733332f7b1a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c75b-5425-7d5f-88e8-41a54089ebc5",
+        "android": "01a1c75b-5425-78cd-8707-9acfd96b7c80"
+      }
+    },
+    {
       "groupId": "8522c51a-299b-4fd6-b9b2-8bd46c50ddc3",
       "createdAt": "2026-11-10T21:01:23.082Z",
       "runtimeVersion": "0.13.0",
