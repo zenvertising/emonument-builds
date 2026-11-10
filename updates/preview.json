@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8522c51a-299b-4fd6-b9b2-8bd46c50ddc3",
+      "createdAt": "2026-11-10T21:01:23.082Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(dashboard): add a sheet type switch and order the status tiles by what the operator has to do (#338)",
+      "commit": "615e3506264989dadd713381063e441f9a78b5cc",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c743-f90a-7c4c-800c-0dd908944003",
+        "android": "01a1c743-f90a-7390-970b-67a9ab745b04"
+      }
+    },
+    {
       "groupId": "377ffc37-06e8-4157-9749-ed897705f860",
       "createdAt": "2026-11-10T20:39:15.018Z",
       "runtimeVersion": "0.13.0",
