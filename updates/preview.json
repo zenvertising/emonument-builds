@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "377ffc37-06e8-4157-9749-ed897705f860",
+      "createdAt": "2026-11-10T20:39:15.018Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sheets): open the sheet list on all types and hand it the dashboard's exact filter (#337)",
+      "commit": "4f2b9d2b0d811b6984a91d0dda8eff03a5e2ab6c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1c72f-b54a-79c6-b79e-016194d9e88d",
+        "android": "01a1c72f-b54a-7355-9bd0-91c234831ffa"
+      }
+    },
+    {
       "groupId": "d2136043-575f-4aa2-bb89-50f930d9388d",
       "createdAt": "2026-11-10T17:37:48.869Z",
       "runtimeVersion": "0.13.0",
