@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ab89e56b-11c9-49f3-9235-aff042ad80d5",
+      "createdAt": "2026-11-11T18:30:19.027Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(ds): let a Sheet's scroll area reach its footer line (#346)",
+      "commit": "96c49305c9e57a959a75ace2724745b6c34df1ce",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1cbe0-0693-7a71-a4e4-154bf69311ca",
+        "android": "01a1cbe0-0693-7618-b47b-f4269b06d9c8"
+      }
+    },
+    {
       "groupId": "b7843531-a47e-4b65-a283-3adace541bcd",
       "createdAt": "2026-11-11T18:19:17.186Z",
       "runtimeVersion": "0.13.0",
