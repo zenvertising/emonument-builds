@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "1b8fffd8-1a6c-4bcb-ab06-60c49b827a09",
+      "createdAt": "2026-11-11T11:55:01.827Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): compact sheet list rows with name and code chips, status icons, a section bar and the return reason (#342)",
+      "commit": "b22e16a47b6f8d636be8a6a046e467f2f50eb4ca",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ca76-2143-77f9-8d9a-5bfa2bede6ca",
+        "android": "01a1ca76-2143-7995-8dc4-9e7bcc6948f2"
+      }
+    },
+    {
       "groupId": "b8c5715c-ad32-49ee-bd49-bfd118c1dc47",
       "createdAt": "2026-11-10T21:39:52.449Z",
       "runtimeVersion": "0.13.0",
