@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "417ec3ec-bf73-432a-b36e-77c5c2299928",
+      "createdAt": "2026-11-11T14:10:44.410Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sheets): type switch with counts, filter chips, a Filtre panel below 800 dp and a card per sheet (#344)",
+      "commit": "38d48903952536ffb752f4db5673831d368ec674",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1caf2-603a-72fc-9e55-ed99ee724b89",
+        "android": "01a1caf2-603a-7085-a05b-da74572e75c2"
+      }
+    },
+    {
       "groupId": "ab81d14c-b163-43ef-99a5-bdf68c1b2567",
       "createdAt": "2026-11-11T12:08:25.320Z",
       "runtimeVersion": "0.13.0",
