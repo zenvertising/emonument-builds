@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "b7843531-a47e-4b65-a283-3adace541bcd",
+      "createdAt": "2026-11-11T18:19:17.186Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(dashboard): even panels and cards, stacked panels below 800 dp, three tiles per row on tablets (#345)",
+      "commit": "41388ce62567fe078f8ef3b12d06504230a17e9f",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1cbd5-ed42-7be8-85ff-8179c0d3f18a",
+        "android": "01a1cbd5-ed42-76ac-90fb-9d2ec80b2a94"
+      }
+    },
+    {
       "groupId": "417ec3ec-bf73-432a-b36e-77c5c2299928",
       "createdAt": "2026-11-11T14:10:44.410Z",
       "runtimeVersion": "0.13.0",
