@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ab81d14c-b163-43ef-99a5-bdf68c1b2567",
+      "createdAt": "2026-11-11T12:08:25.320Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(ds): Sheet footer slot and height ratio, SelectDrawer emphasis when set, sliders icon (#343)",
+      "commit": "5f5791187c1c130222ce70621c09e3654350e1cd",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ca82-63e8-7db4-8233-c5e8d29ae57f",
+        "android": "01a1ca82-63e8-7823-9d2a-88bd46794622"
+      }
+    },
+    {
       "groupId": "1b8fffd8-1a6c-4bcb-ab06-60c49b827a09",
       "createdAt": "2026-11-11T11:55:01.827Z",
       "runtimeVersion": "0.13.0",
