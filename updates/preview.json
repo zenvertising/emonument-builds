@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d8af9efb-873a-4d74-a812-6176b13357e1",
+      "createdAt": "2026-11-12T19:31:37.303Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sections): sheet in the top bar, white cards and section guidance (#355)",
+      "commit": "5231b24b3a57df9db092a1259a8ceedd8b7ab37c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d13e-82d7-7b7c-809a-92d4840d3d91",
+        "android": "01a1d13e-82d7-748a-92da-e030c558ab75"
+      }
+    },
+    {
       "groupId": "b34f47e8-635f-4dde-9cf7-b677ded8edb4",
       "createdAt": "2026-11-12T19:21:54.936Z",
       "runtimeVersion": "0.13.0",
