@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "593035bb-ce67-4bd0-8852-bdbeb78a7b6c",
+      "createdAt": "2026-11-12T22:36:33.713Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(map): serve label glyphs from the app bundle so offline maps keep their names (#356)",
+      "commit": "650960b0e96c0c6e3005f7da34df7e8ecf57bee5",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d1e7-d431-78c8-ad5e-6d14632fb020",
+        "android": "01a1d1e7-d431-7989-bab6-329bb7b06631"
+      }
+    },
+    {
       "groupId": "d8af9efb-873a-4d74-a812-6176b13357e1",
       "createdAt": "2026-11-12T19:31:37.303Z",
       "runtimeVersion": "0.13.0",
