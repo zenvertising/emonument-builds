@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ffc694e5-9bf8-41c2-b209-cbc2376b1e36",
+      "createdAt": "2026-11-12T18:52:43.755Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sync): send the repeater a deleted entry belonged to (#352)",
+      "commit": "daf86a6e94efaba48db16e016edc3888350ff113",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d11a-e76b-7b64-b706-cc486af8c445",
+        "android": "01a1d11a-e76b-72a4-b6da-8dfe3e4c7116"
+      }
+    },
+    {
       "groupId": "a0e557c0-7696-4b77-8dae-2f0fbbb5c376",
       "createdAt": "2026-11-12T06:11:35.303Z",
       "runtimeVersion": "0.13.0",
