@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "03cc6771-1828-4834-bde8-0af7d1b0877c",
+      "createdAt": "2026-11-12T19:09:27.152Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(sections): section form top bar, save strip and status cards (#353)",
+      "commit": "795ca6e049b0944d2f88b19fc28ac69d41518cbe",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d12a-36f0-75ef-8816-d8dcc6679af2",
+        "android": "01a1d12a-36f0-7daa-bede-2f1a77ab32da"
+      }
+    },
+    {
       "groupId": "ffc694e5-9bf8-41c2-b209-cbc2376b1e36",
       "createdAt": "2026-11-12T18:52:43.755Z",
       "runtimeVersion": "0.13.0",
