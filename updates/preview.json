@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "b34f47e8-635f-4dde-9cf7-b677ded8edb4",
+      "createdAt": "2026-11-12T19:21:54.936Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(form-fields): roomier nested repeaters, white fields, compact read-only view (#354)",
+      "commit": "ab93610461cddb09a97fd023172b0c80a3957b74",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d135-9ff8-733f-b223-b5c15473e08d",
+        "android": "01a1d135-9ff8-7cfd-94ea-600dbbdd5e6d"
+      }
+    },
+    {
       "groupId": "03cc6771-1828-4834-bde8-0af7d1b0877c",
       "createdAt": "2026-11-12T19:09:27.152Z",
       "runtimeVersion": "0.13.0",
