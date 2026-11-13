@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ec672a2d-7655-47d3-bd8b-1df0cec46022",
+      "createdAt": "2026-11-13T08:36:09.369Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(dashboard): continue card matches the sheet list and sync card styles (#357)",
+      "commit": "70288967abe9edd48c8fb904686a93224cf77b30",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d40c-c619-7d32-a586-256bef23811f",
+        "android": "01a1d40c-c619-778e-9a77-438557671c9d"
+      }
+    },
+    {
       "groupId": "593035bb-ce67-4bd0-8852-bdbeb78a7b6c",
       "createdAt": "2026-11-12T22:36:33.713Z",
       "runtimeVersion": "0.13.0",
