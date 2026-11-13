@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "0a399308-e7a1-442e-b7ec-71ae8d711191",
+      "createdAt": "2026-11-13T20:25:21.734Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "Fix/notification role and return reason (#361)",
+      "commit": "572893507d57a38d52e03b025ba7f64d1962b0e7",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d696-1246-76b9-add4-c8c46db598d0",
+        "android": "01a1d696-1246-7cb2-8544-28da36942e10"
+      }
+    },
+    {
       "groupId": "4b25ab4f-ca03-4681-b8a3-0db59f07bc48",
       "createdAt": "2026-11-13T19:39:27.109Z",
       "runtimeVersion": "0.13.0",
