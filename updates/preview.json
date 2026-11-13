@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "4b25ab4f-ca03-4681-b8a3-0db59f07bc48",
+      "createdAt": "2026-11-13T19:39:27.109Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sections): let a completed section be sent to review from its form (#360)",
+      "commit": "3ddac768e1977381989a62f9a5f897e7ff968d25",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d66c-0a05-729d-a6d5-9e473c52bb30",
+        "android": "01a1d66c-0a05-7bf3-9e14-dfa642816b9e"
+      }
+    },
+    {
       "groupId": "ec672a2d-7655-47d3-bd8b-1df0cec46022",
       "createdAt": "2026-11-13T08:36:09.369Z",
       "runtimeVersion": "0.13.0",
