@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "113a4b81-d6b5-4a62-b7a0-3abc8bf80d05",
+      "createdAt": "2026-11-13T21:20:25.912Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(dashboard): keep the continue card while switching the sheet type and even out the card spacing (#362)",
+      "commit": "4b195137db31727997a9d203ed1a28449db86f9d",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1d6c8-7d38-7850-8a13-38fefea514d6",
+        "android": "01a1d6c8-7d38-7a3a-afc0-edbd8a71e0fd"
+      }
+    },
+    {
       "groupId": "0a399308-e7a1-442e-b7ec-71ae8d711191",
       "createdAt": "2026-11-13T20:25:21.734Z",
       "runtimeVersion": "0.13.0",
