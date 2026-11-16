@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "f669971a-e7b6-4c6e-b730-5a147c3f9eb7",
+      "createdAt": "2026-11-16T13:53:31.235Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(sections): show child sections and own fields in schema order (#365)",
+      "commit": "b7ddcb6510f59f8c5984a8762a579b08d3a128f3",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1e4a2-6863-7100-a842-74e9be1cfb04",
+        "android": "01a1e4a2-6863-78eb-bc56-a7cdbde76772"
+      }
+    },
+    {
       "groupId": "5d93c35e-05bb-434b-8d08-bc4f8dae3b05",
       "createdAt": "2026-11-16T13:43:43.468Z",
       "runtimeVersion": "0.13.0",
