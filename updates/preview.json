@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "9f5b38aa-76bf-4da1-a8de-b03773a2df8c",
+      "createdAt": "2026-11-16T07:58:39.209Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(map): show a weak GPS signal on the map and explain approximate location (#363)",
+      "commit": "115242614b0db4eb9c1305c064b7f4e91b540262",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1e35d-8469-7649-84c6-69fde82efe55",
+        "android": "01a1e35d-8469-78cc-8230-bb1a3041ee12"
+      }
+    },
+    {
       "groupId": "a42eb718-81c3-4a01-82b4-25614626a325",
       "createdAt": "2026-11-13T21:30:57.669Z",
       "runtimeVersion": "0.13.0",
