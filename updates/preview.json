@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8f8bbe4d-90ab-444e-b148-584bc5644272",
+      "createdAt": "2026-11-17T13:41:24.798Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(settings): show the installed app version and build number (#367)",
+      "commit": "5081801af81797fa414574a0d84b5516012cf1a2",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1e9bd-aebe-7c78-b7fa-a674cb31da53",
+        "android": "01a1e9bd-aebe-7882-a6d4-0480d4dddec6"
+      }
+    },
+    {
       "groupId": "8b6bb8b0-7490-4f4c-958c-71278be2d519",
       "createdAt": "2026-11-17T12:51:05.760Z",
       "runtimeVersion": "0.13.0",
