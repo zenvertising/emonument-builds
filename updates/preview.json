@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8b6bb8b0-7490-4f4c-958c-71278be2d519",
+      "createdAt": "2026-11-17T12:51:05.760Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "feat(release): prompt to install a new app version",
+      "commit": "702348b558f45543d2800ab62bae5ea76a212a4a",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1e98f-9da0-71d5-8912-69b5ebbde7a2",
+        "android": "01a1e98f-9da0-78db-a754-c42e3f02fd9f"
+      }
+    },
+    {
       "groupId": "f669971a-e7b6-4c6e-b730-5a147c3f9eb7",
       "createdAt": "2026-11-16T13:53:31.235Z",
       "runtimeVersion": "0.13.0",
