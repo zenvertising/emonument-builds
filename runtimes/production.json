@@ -8,6 +8,10 @@
         "ios": {
           "firstBuildAt": "2026-11-18T17:18:29.290Z",
           "latestBuildAt": "2026-11-18T17:18:29.290Z"
+        },
+        "android": {
+          "firstBuildAt": "2026-11-18T18:29:52.903Z",
+          "latestBuildAt": "2026-11-18T18:29:52.903Z"
         }
       }
     },
