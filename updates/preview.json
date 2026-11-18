@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "3f682704-aac9-42d1-a245-8f93847242ab",
+      "createdAt": "2026-11-18T18:59:34.631Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "Merge pull request #372 from zenvertising/chore/merge-main-into-develop",
+      "commit": "ce3563b831a1744d18ff1b423a29cb1493cad860",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f007-5467-7859-8c94-ccc76a9f0513",
+        "android": "01a1f007-5467-742a-9578-114bceea940e"
+      }
+    },
+    {
       "groupId": "a81c4bf9-fc99-4b99-b04c-d08bd0076caf",
       "createdAt": "2026-11-18T12:36:04.693Z",
       "runtimeVersion": "0.13.0",
