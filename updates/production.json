@@ -2,6 +2,19 @@
   "channel": "production",
   "updates": [
     {
+      "groupId": "4bc5e8a1-16c7-4ab9-80fe-adc6d466ae7d",
+      "createdAt": "2026-11-18T18:45:40.639Z",
+      "runtimeVersion": "0.14.0",
+      "tag": "v2.0.7",
+      "subject": "fix(ios): pin React-Core-prebuilt to 0.83.10 in the Podfile lock (#371)",
+      "commit": "523f429e33e26ff7484af50db35d5f4268a8430b",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1effa-9a9f-7340-b8e2-bc4c41a658b4",
+        "android": "01a1effa-9a9f-7740-8061-f0156571f95f"
+      }
+    },
+    {
       "groupId": "b9611205-10c5-4f32-84fe-e147437ab76a",
       "createdAt": "2026-11-18T16:09:40.013Z",
       "runtimeVersion": "0.13.0",
