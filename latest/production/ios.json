@@ -1,14 +1,14 @@
 {
-  "buildId": "ccb1b057-506a-4cd5-9dbb-818241ae3063",
+  "buildId": "11dee7c6-bfee-4452-aed0-4e03b1c899e9",
   "platform": "ios",
   "profile": "production",
-  "appVersion": "0.1.0",
-  "buildNumber": "22",
-  "runtimeVersion": "0.13.0",
-  "commit": "7ee35f8371951f95fd2b4f033b3fa611b2456961",
-  "completedAt": "2026-09-28T09:44:07.959Z",
-  "mirroredAt": "2026-09-28T10:13:50.102Z",
-  "url": "https://github.com/zenvertising/emonument-builds/releases/download/production-ios-ccb1b057-506a-4cd5-9dbb-818241ae3063/heritas-production-22.ipa",
-  "manifestUrl": "https://zenvertising.github.io/emonument-builds/manifests/production/ccb1b057-506a-4cd5-9dbb-818241ae3063.plist",
-  "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fzenvertising.github.io%2Femonument-builds%2Fmanifests%2Fproduction%2Fccb1b057-506a-4cd5-9dbb-818241ae3063.plist"
+  "appVersion": "2.1.0",
+  "buildNumber": "24",
+  "runtimeVersion": "0.14.0",
+  "commit": "523f429e33e26ff7484af50db35d5f4268a8430b",
+  "completedAt": "2026-11-18T17:18:29.290Z",
+  "mirroredAt": "2026-11-18T17:19:07.648Z",
+  "url": "https://github.com/zenvertising/emonument-builds/releases/download/production-ios-11dee7c6-bfee-4452-aed0-4e03b1c899e9/heritas-production-24.ipa",
+  "manifestUrl": "https://zenvertising.github.io/emonument-builds/manifests/production/11dee7c6-bfee-4452-aed0-4e03b1c899e9.plist",
+  "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fzenvertising.github.io%2Femonument-builds%2Fmanifests%2Fproduction%2F11dee7c6-bfee-4452-aed0-4e03b1c899e9.plist"
 }
