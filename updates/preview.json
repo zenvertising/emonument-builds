@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "a81c4bf9-fc99-4b99-b04c-d08bd0076caf",
+      "createdAt": "2026-11-18T12:36:04.693Z",
+      "runtimeVersion": "0.13.0",
+      "subject": "fix(date-field): open the Android day picker as its own dialog (#368)",
+      "commit": "2f83e42ae9b163cd18d3116f4ffdc88b04c7f1ba",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1eea8-39d5-7715-b570-2f74f0646e9c",
+        "android": "01a1eea8-39d5-7222-af02-dc3558b779bd"
+      }
+    },
+    {
       "groupId": "8f8bbe4d-90ab-444e-b148-584bc5644272",
       "createdAt": "2026-11-17T13:41:24.798Z",
       "runtimeVersion": "0.13.0",
