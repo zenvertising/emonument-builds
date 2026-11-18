@@ -1,14 +1,14 @@
 {
-  "buildId": "26c2ab73-9dee-470f-a607-f1eb4beed3e9",
+  "buildId": "7b52f2fd-e939-4646-84e5-135cea0ac8f6",
   "platform": "ios",
   "profile": "preview",
-  "appVersion": "0.1.0",
-  "buildNumber": "22",
-  "runtimeVersion": "0.13.0",
-  "commit": "e9e453115b97df291cb7e4259574db5972677490",
-  "completedAt": "2026-09-28T18:52:32.497Z",
-  "mirroredAt": "2026-09-28T18:53:14.159Z",
-  "url": "https://github.com/zenvertising/emonument-builds/releases/download/preview-ios-26c2ab73-9dee-470f-a607-f1eb4beed3e9/heritas-preview-22.ipa",
-  "manifestUrl": "https://zenvertising.github.io/emonument-builds/manifests/preview/26c2ab73-9dee-470f-a607-f1eb4beed3e9.plist",
-  "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fzenvertising.github.io%2Femonument-builds%2Fmanifests%2Fpreview%2F26c2ab73-9dee-470f-a607-f1eb4beed3e9.plist"
+  "appVersion": "2.1.0",
+  "buildNumber": "24",
+  "runtimeVersion": "0.14.0",
+  "commit": "ce3563b831a1744d18ff1b423a29cb1493cad860",
+  "completedAt": "2026-11-18T19:40:06.580Z",
+  "mirroredAt": "2026-11-18T19:40:45.499Z",
+  "url": "https://github.com/zenvertising/emonument-builds/releases/download/preview-ios-7b52f2fd-e939-4646-84e5-135cea0ac8f6/heritas-preview-24.ipa",
+  "manifestUrl": "https://zenvertising.github.io/emonument-builds/manifests/preview/7b52f2fd-e939-4646-84e5-135cea0ac8f6.plist",
+  "installUrl": "itms-services://?action=download-manifest&url=https%3A%2F%2Fzenvertising.github.io%2Femonument-builds%2Fmanifests%2Fpreview%2F7b52f2fd-e939-4646-84e5-135cea0ac8f6.plist"
 }
