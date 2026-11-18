@@ -2,6 +2,19 @@
   "channel": "production",
   "updates": [
     {
+      "groupId": "b9611205-10c5-4f32-84fe-e147437ab76a",
+      "createdAt": "2026-11-18T16:09:40.013Z",
+      "runtimeVersion": "0.13.0",
+      "tag": "v2.0.6",
+      "subject": "feat(release): prompt to install a new app version (#369)",
+      "commit": "949c727f6022be591a6b4ed40af676ddeeddf9fa",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1ef6b-c5ad-7861-b649-e5496198fd27",
+        "android": "01a1ef6b-c5ad-7a6f-bb71-7a771c07f2e8"
+      }
+    },
+    {
       "groupId": "fcb1ae88-1ac6-4f39-a59e-16c86e5157db",
       "createdAt": "2026-10-30T11:55:04.688Z",
       "runtimeVersion": "0.13.0",
