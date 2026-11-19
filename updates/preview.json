@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "fea0d11d-7f2b-42ed-83d7-83f17b0a9523",
+      "createdAt": "2026-11-19T22:55:13.464Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sync): push a sheet created from a link field, offline [REQ-B11] (#384)",
+      "commit": "a61fecfa8f8a75c9ca9cb46803901c126423aa33",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f605-6e38-7cc3-a1e7-ee433bf53dce",
+        "android": "01a1f605-6e38-70fe-9b53-0f645483fe7e"
+      }
+    },
+    {
       "groupId": "c9621299-8281-48ea-9d94-fc14fb441759",
       "createdAt": "2026-11-19T21:14:16.079Z",
       "runtimeVersion": "0.14.0",
