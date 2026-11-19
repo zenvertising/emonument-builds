@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ab5395d3-bb13-46ab-a319-556e25ac1fb3",
+      "createdAt": "2026-11-19T20:41:22.886Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sheets): open a linked sheet read-only from its link field [REQ-B10] (#381)",
+      "commit": "a824011d342531fc86ab6d6943381b74144c6a3f",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f58a-e4c6-7971-a999-50d61533b90d",
+        "android": "01a1f58a-e4c6-780a-9da9-7c54344fbbb6"
+      }
+    },
+    {
       "groupId": "d57574d7-5e97-4831-b3d3-aea4e85b8e9e",
       "createdAt": "2026-11-19T20:26:55.727Z",
       "runtimeVersion": "0.14.0",
