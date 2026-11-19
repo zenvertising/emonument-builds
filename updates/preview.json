@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "c9621299-8281-48ea-9d94-fc14fb441759",
+      "createdAt": "2026-11-19T21:14:16.079Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(section-form): let drawer rows take the first tap with the keyboard up (#383)",
+      "commit": "f362912ff60175dda180e644fcdd864979a1cdfc",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f5a9-008f-7410-9468-797910844251",
+        "android": "01a1f5a9-008f-71f7-82ed-48eb8a466e2c"
+      }
+    },
+    {
       "groupId": "ab5395d3-bb13-46ab-a319-556e25ac1fb3",
       "createdAt": "2026-11-19T20:41:22.886Z",
       "runtimeVersion": "0.14.0",
