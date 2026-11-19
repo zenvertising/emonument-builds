@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d57574d7-5e97-4831-b3d3-aea4e85b8e9e",
+      "createdAt": "2026-11-19T20:26:55.727Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sheets): fetch a linked sheet's read-only preview [REQ-B10] (#380)",
+      "commit": "30b6c7ae8c0893c520011165f39d36989d597cd7",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f57d-a96f-7398-bb94-5e153f677ce8",
+        "android": "01a1f57d-a96f-7806-8d8d-747fc9b17bc4"
+      }
+    },
+    {
       "groupId": "d3e25fcf-914e-4e0a-8fd5-0704e780e691",
       "createdAt": "2026-11-19T16:45:11.960Z",
       "runtimeVersion": "0.14.0",
