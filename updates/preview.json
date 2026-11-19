@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "d3e25fcf-914e-4e0a-8fd5-0704e780e691",
+      "createdAt": "2026-11-19T16:45:11.960Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sync): push sheet links the operator changed [REQ-B10] (#378)",
+      "commit": "28e9aaad25b96cff1b3196796e71c36eaca9a67c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f4b2-a998-73a4-93c9-ccf135108162",
+        "android": "01a1f4b2-a998-763f-a215-80039e56fcf1"
+      }
+    },
+    {
       "groupId": "48c3ff34-e007-4cae-b093-ee55eeebe0f1",
       "createdAt": "2026-11-19T16:33:26.372Z",
       "runtimeVersion": "0.14.0",
