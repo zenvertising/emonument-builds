@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "1a9041d2-2326-47db-9524-e701a7e5f57a",
+      "createdAt": "2026-11-19T11:50:17.930Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(sync): Romanian copy for three new push rejection codes (#374)",
+      "commit": "496190a77d8106e0fc3037c4ccc7617582491973",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f3a4-ac4a-758c-afc4-5329b1e06107",
+        "android": "01a1f3a4-ac4a-7504-aa8d-e86560fbd743"
+      }
+    },
+    {
       "groupId": "ba1e6bea-cfc2-47d5-9e60-9ece578dd45f",
       "createdAt": "2026-11-19T11:10:02.754Z",
       "runtimeVersion": "0.14.0",
