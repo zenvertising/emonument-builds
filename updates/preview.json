@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "1395694a-c753-4724-bbef-ac13d8cc86d5",
+      "createdAt": "2026-11-19T14:41:27.904Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sheets): download the sheets a link field can point to (#376)",
+      "commit": "e66fe8f6f2a86ca3ff45906f02e263b050568ac1",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f441-6160-7b3f-8ce9-bc54baf970fb",
+        "android": "01a1f441-6160-7a70-af67-a9739fa7516e"
+      }
+    },
+    {
       "groupId": "ab8b3856-f3be-4b02-b955-3970b19f3ddc",
       "createdAt": "2026-11-19T12:12:26.246Z",
       "runtimeVersion": "0.14.0",
