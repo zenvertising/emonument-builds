@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "48c3ff34-e007-4cae-b093-ee55eeebe0f1",
+      "createdAt": "2026-11-19T16:33:26.372Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(form-fields): pick linked sheets from the offline catalogue [REQ-B10] (#377)",
+      "commit": "55f04affe2243b01616f3c92ccae694371e9df96",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f4a7-e564-7f87-b415-065d246a91ee",
+        "android": "01a1f4a7-e564-7045-a4b1-0e0136250a31"
+      }
+    },
+    {
       "groupId": "1395694a-c753-4724-bbef-ac13d8cc86d5",
       "createdAt": "2026-11-19T14:41:27.904Z",
       "runtimeVersion": "0.14.0",
