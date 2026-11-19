@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "ab8b3856-f3be-4b02-b955-3970b19f3ddc",
+      "createdAt": "2026-11-19T12:12:26.246Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sheets): show all 8 sheet types; Toate shows every sheet (#375)",
+      "commit": "727433cc6719ac20fd559fc8b5dc0aae844f26a9",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f3b8-f106-7573-925f-7b4bcde10fce",
+        "android": "01a1f3b8-f106-7bb9-bdfd-7e8139cc83c8"
+      }
+    },
+    {
       "groupId": "1a9041d2-2326-47db-9524-e701a7e5f57a",
       "createdAt": "2026-11-19T11:50:17.930Z",
       "runtimeVersion": "0.14.0",
