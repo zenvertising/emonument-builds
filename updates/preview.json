@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "359df38b-0bea-4dd3-a4b7-3eaddffb23ee",
+      "createdAt": "2026-11-20T17:32:53.025Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sheet-detail): pull to refresh also refreshes the sheet's link catalogue [REQ-B10] (#393)",
+      "commit": "a1cdf4cc71a71f8789faf59b86c5853eb463195e",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1fa04-ada1-739e-9852-9d9c8781618e",
+        "android": "01a1fa04-ada1-7442-99dd-f75c28c15ee6"
+      }
+    },
+    {
       "groupId": "e87408c6-b92e-436d-919d-452b485a9e9f",
       "createdAt": "2026-11-20T17:02:19.828Z",
       "runtimeVersion": "0.14.0",
