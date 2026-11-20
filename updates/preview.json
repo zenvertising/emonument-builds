@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "0de21e82-0a8b-409c-9f2f-daff2f47ea6e",
+      "createdAt": "2026-11-20T15:41:29.521Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(sync): don't revoke a sheet that still holds unsent values (#390)",
+      "commit": "38a28f6014633b1706d3a460cedfaea8ce9f1a73",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f99e-b231-78a5-bef1-13b15573caeb",
+        "android": "01a1f99e-b231-7bd7-9b81-da32992cd06b"
+      }
+    },
+    {
       "groupId": "f799ed20-1442-48f7-9be5-5fb6043eeecd",
       "createdAt": "2026-11-20T14:51:32.595Z",
       "runtimeVersion": "0.14.0",
