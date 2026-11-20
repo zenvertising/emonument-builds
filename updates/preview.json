@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e87408c6-b92e-436d-919d-452b485a9e9f",
+      "createdAt": "2026-11-20T17:02:19.828Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(form): never clear a value another role locked on hide (#392)",
+      "commit": "5c9dc71672db743052082a4f3756e1416247d328",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f9e8-b4b4-742c-9bce-48c12f9b0efe",
+        "android": "01a1f9e8-b4b4-7623-b053-26e3440f110d"
+      }
+    },
+    {
       "groupId": "550a711e-a501-46b7-9867-129ef469a8d5",
       "createdAt": "2026-11-20T16:20:46.988Z",
       "runtimeVersion": "0.14.0",
