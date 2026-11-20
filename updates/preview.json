@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "64a4dd7e-b379-44ab-8d2e-dc4274d723fe",
+      "createdAt": "2026-11-20T07:28:10.678Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(sync): B11 follow-ups: no red error for waiting links, no retry on a locked section [REQ-B11] (#387)",
+      "commit": "d3ac87b5c64d1d3a49fa4992ecdc44a4d439c739",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f7db-0db6-7e9f-b2cc-64046590b613",
+        "android": "01a1f7db-0db6-73ce-b697-2f316902e2ba"
+      }
+    },
+    {
       "groupId": "8e630b01-26c8-4b9b-abaa-0ca2d2d7be59",
       "createdAt": "2026-11-20T05:57:14.179Z",
       "runtimeVersion": "0.14.0",
