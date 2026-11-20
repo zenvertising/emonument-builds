@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "7857ae0b-9b87-4261-9ee4-13971143e364",
+      "createdAt": "2026-11-20T05:20:38.962Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(sync): reload the form after a draft becomes a sheet [REQ-B11] (#385)",
+      "commit": "d2fdc888e869b5e0f5320529d9bab875c6cccdde",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f766-4c32-7de3-abf1-977759c5bcc5",
+        "android": "01a1f766-4c32-75a1-a66d-824ea7af56f8"
+      }
+    },
+    {
       "groupId": "fea0d11d-7f2b-42ed-83d7-83f17b0a9523",
       "createdAt": "2026-11-19T22:55:13.464Z",
       "runtimeVersion": "0.14.0",
