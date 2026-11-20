@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "f799ed20-1442-48f7-9be5-5fb6043eeecd",
+      "createdAt": "2026-11-20T14:51:32.595Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(form): never clear a read-only field on hide (#389)",
+      "commit": "2e039a040261b1e1c1080a440333fae0b1144dbd",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f970-f773-7b67-8743-e7ba24f1eeea",
+        "android": "01a1f970-f773-7ee1-80f9-d1c64e092584"
+      }
+    },
+    {
       "groupId": "4510e80c-cec9-4d04-80c4-ef3454a8c80f",
       "createdAt": "2026-11-20T12:17:17.009Z",
       "runtimeVersion": "0.14.0",
