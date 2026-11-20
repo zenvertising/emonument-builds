@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "8e630b01-26c8-4b9b-abaa-0ca2d2d7be59",
+      "createdAt": "2026-11-20T05:57:14.179Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(form-fields): create an associated sheet from the link drawer [REQ-B11] (#386)",
+      "commit": "949b637005b2c0681f977ac68651d51fbad0bddb",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f787-cb43-7604-87d7-99c0d2439607",
+        "android": "01a1f787-cb43-7d1b-b132-13bc17476703"
+      }
+    },
+    {
       "groupId": "7857ae0b-9b87-4261-9ee4-13971143e364",
       "createdAt": "2026-11-20T05:20:38.962Z",
       "runtimeVersion": "0.14.0",
