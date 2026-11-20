@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "550a711e-a501-46b7-9867-129ef469a8d5",
+      "createdAt": "2026-11-20T16:20:46.988Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(sheet-detail): link polish — values shown once, no loader on refocus [REQ-B10] [REQ-B15] (#391)",
+      "commit": "3bf26ee339521e79ca67b5729e29284a5ab9679f",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f9c2-ab0c-73f3-922a-d08d933baf6d",
+        "android": "01a1f9c2-ab0c-7e78-9533-bfa7fddc7a6e"
+      }
+    },
+    {
       "groupId": "0de21e82-0a8b-409c-9f2f-daff2f47ea6e",
       "createdAt": "2026-11-20T15:41:29.521Z",
       "runtimeVersion": "0.14.0",
