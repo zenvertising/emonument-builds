@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "4510e80c-cec9-4d04-80c4-ef3454a8c80f",
+      "createdAt": "2026-11-20T12:17:17.009Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "feat(sheet-detail): incoming links „Legături” on the sheet screen [REQ-B15] (#388)",
+      "commit": "7b26eb49e9531b14e41ae1643f92514c01cfa3f0",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a1f8e3-bcd1-7934-9c72-d7fcfcaf524f",
+        "android": "01a1f8e3-bcd1-735c-aac8-432a09f8f96a"
+      }
+    },
+    {
       "groupId": "64a4dd7e-b379-44ab-8d2e-dc4274d723fe",
       "createdAt": "2026-11-20T07:28:10.678Z",
       "runtimeVersion": "0.14.0",
