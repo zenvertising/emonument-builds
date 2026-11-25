@@ -2,6 +2,18 @@
   "channel": "preview",
   "updates": [
     {
+      "groupId": "e77d0f1d-7277-470b-826c-24bd4e62ec09",
+      "createdAt": "2026-11-25T13:23:04.515Z",
+      "runtimeVersion": "0.14.0",
+      "subject": "fix(sheet): swipe a bottom sheet down by its handle or title to close it [REQ-B15] (#394)",
+      "commit": "c4655614d55ae21cf0a39ae680e957c592e2b32c",
+      "isRollBackToEmbedded": false,
+      "updateIds": {
+        "ios": "01a212df-c4c3-7284-86e3-14c31a1696ce",
+        "android": "01a212df-c4c3-7c31-920f-1afbaf95e061"
+      }
+    },
+    {
       "groupId": "359df38b-0bea-4dd3-a4b7-3eaddffb23ee",
       "createdAt": "2026-11-20T17:32:53.025Z",
       "runtimeVersion": "0.14.0",
